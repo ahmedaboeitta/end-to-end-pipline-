@@ -223,7 +223,42 @@ python pipeline.py --config custom_config.yaml
 # List available stages
 python pipeline.py --list
 ```
+---
 
+### API Usage
+
+Once servers are running (`./scripts/run_pipeline.sh --serve`):
+
+**Ask a question:**
+```bash
+curl -X POST http://localhost:8000/ask \
+  -H "Content-Type: application/json" \
+  -d '{"question": "What are the signs of early pregnancy?"}'
+```
+
+**Response:**
+```json
+{
+  "answer": "Common signs include missed period, nausea, fatigue, and breast tenderness.",
+  "model": "lora_weights",
+  "latency_ms": 245.3
+}
+```
+
+**Other endpoints:**
+```bash
+# Health check
+curl http://localhost:8000/health
+
+# Readiness (models loaded?)
+curl http://localhost:8000/ready
+
+# List models
+curl http://localhost:8000/models
+
+# Prometheus metrics
+curl http://localhost:8000/metrics
+```
 ---
 
 ## Pipeline Stages
