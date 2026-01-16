@@ -108,8 +108,8 @@ cd energyai
 # 2. Install dependencies
 pip install -r requirements.txt
 
+pipinstall -U trl
 # 3. Configure environment
-cp .env.example .env
 # Edit .env with your API keys
 
 # 4. Run full pipeline + deploy
