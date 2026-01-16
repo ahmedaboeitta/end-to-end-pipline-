@@ -261,6 +261,16 @@ curl http://localhost:8000/metrics
 ```
 ---
 
+---
+
+## ⚠️ Important Note
+
+The `data/`, `models/`, `reports/`, and `logs/` folders in this repo contain **example outputs** from a sample pipeline run. 
+
+Then run the pipeline fresh - it will recreate all folders with your own data.
+
+---
+
 ## Pipeline Stages
 
 ### Stage 1: Data Collection
