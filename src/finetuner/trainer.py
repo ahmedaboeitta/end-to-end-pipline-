@@ -138,6 +138,8 @@ class Finetuner:
                 
                 # Misc
                 seed=seed,
+                gradient_checkpointing=False,
+                gradient_checkpointing_kwargs={"use_reentrant": False},
             )
         else:  # steps
             sft_config = SFTConfig(
@@ -175,6 +177,8 @@ class Finetuner:
                 
                 # Misc
                 seed=seed,
+                gradient_checkpointing=False,
+                gradient_checkpointing_kwargs={"use_reentrant": False},
             )
         
         # Trainer
