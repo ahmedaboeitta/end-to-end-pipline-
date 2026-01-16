@@ -1,0 +1,134 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            hv6vtdnjopdfc5gxakq58y10gp6xipww:
+                codePath: pipeline.py
+                codePathLocal: pipeline.py
+                cpu_count: 32
+                cpu_count_logical: 64
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "1611257479168"
+                        used: "1474824634368"
+                email: ahmed.aboeitta@mbzuai.ac.ae
+                executable: /home/ahmed.aboeitta/miniconda3/envs/energy/bin/python
+                git:
+                    commit: a6dcb5948f1c28361992496267c9f1866b4f9672
+                    remote: https://github.com/ahmedaboeitta/energyai.git
+                gpu: NVIDIA RTX 6000 Ada Generation
+                gpu_count: 2
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX 6000 Ada Generation
+                      uuid: GPU-54b1da6a-1167-cc2b-55cb-93a331d24991
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX 6000 Ada Generation
+                      uuid: GPU-c105c72e-b4cc-be6a-fb70-cc9463807318
+                host: ws006345
+                memory:
+                    total: "134534991872"
+                os: Linux-6.8.0-87-generic-x86_64-with-glibc2.35
+                program: /home/ahmed.aboeitta/energyai/pipeline.py
+                python: CPython 3.10.19
+                root: /home/ahmed.aboeitta/energyai
+                startedAt: "2026-01-10T09:36:07.171281Z"
+                writerId: hv6vtdnjopdfc5gxakq58y10gp6xipww
+        m: []
+        python_version: 3.10.19
+        t:
+            "1":
+                - 1
+                - 11
+                - 41
+                - 49
+                - 51
+                - 71
+                - 84
+                - 98
+            "2":
+                - 1
+                - 11
+                - 41
+                - 49
+                - 51
+                - 71
+                - 84
+                - 98
+            "3":
+                - 13
+                - 16
+            "4": 3.10.19
+            "5": 0.23.1
+            "6": 4.57.3
+            "12": 0.23.1
+            "13": linux-x86_64
+base_model:
+    value: meta-llama/Llama-3.2-3B-Instruct
+batch_size:
+    value: 8
+bf16:
+    value: true
+cleanup_checkpoints:
+    value: true
+epochs:
+    value: 20
+final_model_dir:
+    value: models/lora_weights
+fp16:
+    value: false
+gradient_accumulation_steps:
+    value: 4
+learning_rate:
+    value: 0.0001
+logging_steps:
+    value: 10
+lora_alpha:
+    value: 32
+lora_dropout:
+    value: 0.05
+lora_r:
+    value: 16
+lr_scheduler_type:
+    value: cosine
+max_grad_norm:
+    value: 1
+max_seq_length:
+    value: 1024
+max_steps:
+    value: 500
+optim:
+    value: paged_adamw_32bit
+output_dir:
+    value: models/checkpoints
+quantization:
+    value: 8bit
+save_steps:
+    value: 100
+seed:
+    value: 42
+strategy:
+    value: epoch
+target_modules:
+    value:
+        - q_proj
+        - k_proj
+        - v_proj
+        - o_proj
+train_data:
+    value: data/qa_dataset/train.json
+wandb_enabled:
+    value: true
+wandb_project:
+    value: pregnancy-qa-finetune
+wandb_run_name:
+    value: null
+warmup_ratio:
+    value: 0.1
+weight_decay:
+    value: 0.01

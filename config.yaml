@@ -1,0 +1,102 @@
+domain: "pregnancy"
+use_case: "qa"
+
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  chunks: "data/chunks"
+  qa_dataset: "data/qa_dataset"
+
+data_collector:
+  num_results: 500
+  mode: "pdf"
+  query: "pregnancy pdfs"
+
+data_processor:
+  min_tokens: 20
+  target_tokens: 512
+  max_tokens: 500
+
+dataset_generator:
+  max_tokens: 600
+  train_ratio: 0.8
+  model: "gemini-2.5-flash"
+
+finetuning:
+  base_model: "meta-llama/Llama-3.2-3B-Instruct"
+  train_data: "data/qa_dataset/train.json"
+  output_dir: "models/checkpoints"
+  final_model_dir: "models/lora_weights"
+  
+  # Quantization: null, "4bit", "8bit"
+  quantization: "8bit"
+  
+  # LoRA params
+  lora_r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules: ["q_proj", "k_proj", "v_proj", "o_proj"]
+  
+  # Training strategy: "epoch" or "steps"
+  strategy: "epoch"
+
+  # Training params
+  epochs: 20
+  max_steps: 500
+  batch_size: 8
+  gradient_accumulation_steps: 4
+  learning_rate: 1.0e-4
+  lr_scheduler_type: "cosine"
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  max_grad_norm: 1.0
+  max_seq_length: 1024
+  optim: "paged_adamw_32bit"
+  seed: 42
+  
+  # Precision
+  bf16: true
+  fp16: false
+  
+  # Checkpoints
+  save_steps: 100
+  cleanup_checkpoints: true
+  
+  # Logging
+  logging_steps: 10
+  wandb_enabled: true 
+  wandb_project: "pregnancy-qa-finetune"
+  wandb_run_name: null
+
+evaluation:
+  base_model: "meta-llama/Llama-3.2-3B-Instruct"
+  adapter_path: "models/lora_weights"
+  quantization: "8bit"
+  eval_data: "data/qa_dataset/eval.json"
+  batch_size: 16
+  max_new_tokens: 256
+  metrics:
+    - rouge
+    - bertscore
+    - token_f1
+  combined_weights:
+    bertscore_f1: 0.40
+    rougeL: 0.30
+    token_f1: 0.20
+    rouge1: 0.10
+  output_dir: "reports"
+
+registration:
+  hf_username: null  # Uses HF_USERNAME env var if null
+  repo_name: null    # Auto-generates if null: {domain}-{use_case}-{method}
+  private: false
+
+serving:
+  vllm_host: "vllm"  # Change to "vllm" for Docker
+  vllm_port: 8001
+  api_port: 8000
+  timeout: 60
+  max_model_len: 1024
+  gpu_memory_utilization: 0.2
+  warmup_on_start: true
+  api_token: null  # Set via API_TOKEN env var for security

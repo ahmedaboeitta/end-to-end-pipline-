@@ -1,0 +1,1493 @@
+[
+  {
+    "id": "doc_000",
+    "url": "https://www.stgeorges.nhs.uk/wp-content/uploads/2013/11/Pregnancy_Book_comp.pdf",
+    "title": "The Pregnancy Book",
+    "source": "St George's University Hospitals NHS Foundation Trust",
+    "path": "data/raw/doc_000.pdf"
+  },
+  {
+    "id": "doc_001",
+    "url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pdfs/womens-health/ws-guide-to-pregnancy-part-one.pdf",
+    "title": "ws-guide-to-pregnancy-part-one.pdf",
+    "source": "Emory Healthcare",
+    "path": "data/raw/doc_001.pdf"
+  },
+  {
+    "id": "doc_002",
+    "url": "https://www.cdc.gov/pregnancy/media/pdfs/Pregnancy_Planner_508.pdf",
+    "title": "Steps to a Healthier me and baby-to-be! checklist",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_002.pdf"
+  },
+  {
+    "id": "doc_003",
+    "url": "https://www.healthyparentshealthychildren.ca/app/uploads/2018/12/2018-Pregnancy-and-Birth.pdf",
+    "title": "2018-Pregnancy-and-Birth.pdf",
+    "source": "Healthy Parents Healthy Children",
+    "path": "data/raw/doc_003.pdf"
+  },
+  {
+    "id": "doc_004",
+    "url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/services/womens-health/ahn-trimester-book.pdf",
+    "title": "Your Journey through Pregnancy",
+    "source": "www.ahn.org",
+    "path": "data/raw/doc_004.pdf"
+  },
+  {
+    "id": "doc_005",
+    "url": "https://health.cornell.edu/sites/health/files/pdf-library/early-pregnancy-guidelines.pdf",
+    "title": "Early Pregnancy Guidelines",
+    "source": "Cornell Health",
+    "path": "data/raw/doc_005.pdf"
+  },
+  {
+    "id": "doc_006",
+    "url": "https://www.healthlinkbc.ca/sites/default/files/documents/babys-best-chance.pdf",
+    "title": "Baby's Best Chance",
+    "source": "HealthLink BC",
+    "path": "data/raw/doc_006.pdf"
+  },
+  {
+    "id": "doc_007",
+    "url": "https://resources.beststart.org/wp-content/uploads/2018/12/E28-E.pdf",
+    "title": "A Healthy Start for Baby and Me",
+    "source": "Ruhr-Universit\u00e4t Bochum",
+    "path": "data/raw/doc_007.pdf"
+  },
+  {
+    "id": "doc_008",
+    "url": "https://doh.wa.gov/sites/default/files/legacy/Documents/8100//961-1047-TipsPreg-en-L.pdf",
+    "title": "Tips for a Healthy Pregnancy",
+    "source": "Washington State Department of Health (.gov)",
+    "path": "data/raw/doc_008.pdf"
+  },
+  {
+    "id": "doc_009",
+    "url": "https://www.brighamandwomens.org/assets/bwh/obgyn/pdfs/nob-bwh-pregnancy-food-guide.pdf",
+    "title": "THE PREGNANCY FOOD GUIDE",
+    "source": "Brigham and Women's Hospital",
+    "path": "data/raw/doc_009.pdf"
+  },
+  {
+    "id": "doc_010",
+    "url": "https://www.niaaa.nih.gov/sites/default/files/publications/pregnancy.pdf",
+    "title": "pregnancy.pdf",
+    "source": "National Institute on Alcohol Abuse and Alcoholism (NIAAA) (.gov)",
+    "path": "data/raw/doc_010.pdf"
+  },
+  {
+    "id": "doc_011",
+    "url": "https://accountf2197fd5.blob.core.windows.net/payload/documents/tmcobstetrics-pregnancy-booklet-201906.pdf",
+    "title": "Y our Pregnancy",
+    "source": "windows.net",
+    "path": "data/raw/doc_011.pdf"
+  },
+  {
+    "id": "doc_012",
+    "url": "https://www.publichealth.hscni.net/sites/default/files/2019-03/pregnancy%20book%20complete%20march%202019.pdf",
+    "title": "The Pregnancy Book - HSC Public Health Agency",
+    "source": "HSC Public Health Agency",
+    "path": "data/raw/doc_012.pdf"
+  },
+  {
+    "id": "doc_013",
+    "url": "https://www.niaaa.nih.gov/sites/default/files/publications/pregnancy.pdf",
+    "title": "pregnancy.pdf",
+    "source": "National Institute on Alcohol Abuse and Alcoholism (NIAAA) (.gov)",
+    "path": "data/raw/doc_013.pdf"
+  },
+  {
+    "id": "doc_014",
+    "url": "https://accountf2197fd5.blob.core.windows.net/payload/documents/tmcobstetrics-pregnancy-booklet-201906.pdf",
+    "title": "Y our Pregnancy",
+    "source": "windows.net",
+    "path": "data/raw/doc_014.pdf"
+  },
+  {
+    "id": "doc_015",
+    "url": "https://www.thewomens.org.au/images/uploads/fact-sheets/Preparing-healthy-pregnancy-300119.pdf",
+    "title": "Preparing for a healthy pregnancy",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_015.pdf"
+  },
+  {
+    "id": "doc_016",
+    "url": "https://www.peacehealth.org/sites/default/files/2022-07/22-BIRT-357303_educational-book_New-Mom_Guide_Longview.pdf",
+    "title": "Welcome New Mom",
+    "source": "PeaceHealth",
+    "path": "data/raw/doc_016.pdf"
+  },
+  {
+    "id": "doc_017",
+    "url": "https://www.ohsu.edu/sites/default/files/2019-06/CWH-3051517-Pregnancy-Plate-FLY-WEB_0.pdf",
+    "title": "My Pregnancy Plate",
+    "source": "OHSU",
+    "path": "data/raw/doc_017.pdf"
+  },
+  {
+    "id": "doc_018",
+    "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Care-in-early-pregnancy-2018.pdf",
+    "title": "Taking care of yourself in early pregnancy",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_018.pdf"
+  },
+  {
+    "id": "doc_019",
+    "url": "https://www.afro.who.int/sites/default/files/2017-06/mps%20pcpnc.pdf",
+    "title": "Pregnancy, Childbirth, Postpartum and Newborn Care:",
+    "source": "WHO | Regional Office for Africa",
+    "path": "data/raw/doc_019.pdf"
+  },
+  {
+    "id": "doc_020",
+    "url": "https://fenwayhealth.org/wp-content/uploads/AIOB-75_OB-1st-Trimester-packet_updates.pdf",
+    "title": "Congratulations on your pregnancy!",
+    "source": "Fenway Health",
+    "path": "data/raw/doc_020.pdf"
+  },
+  {
+    "id": "doc_021",
+    "url": "https://www.publichealth.hscni.net/sites/default/files/2019-03/pregnancy%20book%20complete%20march%202019.pdf",
+    "title": "The Pregnancy Book - HSC Public Health Agency",
+    "source": "HSC Public Health Agency",
+    "path": "data/raw/doc_021.pdf"
+  },
+  {
+    "id": "doc_022",
+    "url": "https://www.mainlinehealth.org/-/media/files/pdf/specialties/obstetrics-gynecology/maternity-booklet-web2.pdf",
+    "title": "PREPARING FOR - Delivery",
+    "source": "Main Line Health",
+    "path": "data/raw/doc_022.pdf"
+  },
+  {
+    "id": "doc_023",
+    "url": "https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/my_safe_motherhood_booklet_english.pdf",
+    "title": "Booklet for expecting mothers",
+    "source": "National Health Mission",
+    "path": "data/raw/doc_023.pdf"
+  },
+  {
+    "id": "doc_024",
+    "url": "https://www.nichd.nih.gov/sites/default/files/publications/pubs/Documents/PregnancyKnowYourTermsPoster.pdf",
+    "title": "Pregnancy: Know Your Terms Poster",
+    "source": "National Institute of Child Health and Human Development (.gov)",
+    "path": "data/raw/doc_024.pdf"
+  },
+  {
+    "id": "doc_025",
+    "url": "https://health.gov/sites/default/files/2020-12/MYW_MH_Pregnant_FS.pdf",
+    "title": "Move Your Way: Pregnancy Fact Sheet",
+    "source": "Office of the Assistant Secretary for Health (.gov)",
+    "path": "data/raw/doc_025.pdf"
+  },
+  {
+    "id": "doc_026",
+    "url": "https://www.cdc.gov/physicalactivity/basics/pdfs/pa-pregnant-and-postpartum-women-508.pdf",
+    "title": "Physical Activity Recommendations for Pregnant and ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_026.pdf"
+  },
+  {
+    "id": "doc_027",
+    "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Medicines_and_pregnancy_240816.pdf",
+    "title": "Medicine and pregnancy: what you need to know",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_027.pdf"
+  },
+  {
+    "id": "doc_028",
+    "url": "https://www.uhhospitals.org/-/media/Files/Services/OBGyn/healthy-pregnancy-handbook.pdf?la=en&hash=726A4F173217478B3969BEDC6608A822B6349FA4",
+    "title": "Healthy pregnancy handbook",
+    "source": "University Hospitals",
+    "path": "data/raw/doc_028.pdf"
+  },
+  {
+    "id": "doc_029",
+    "url": "https://www.hercarevi.com/wp-content/uploads/2013/06/9e7ded988202552a2b9bbccc64e704d3.pdf",
+    "title": "A Father's Guide to Pregnancy",
+    "source": "Hercare, Inc.",
+    "path": "data/raw/doc_029.pdf"
+  },
+  {
+    "id": "doc_030",
+    "url": "https://www.womans.org/sites/default/files/2023-11/PregnancyToDoChecklist.pdf",
+    "title": "pregnancy to do checklist",
+    "source": "Woman's Hospital",
+    "path": "data/raw/doc_030.pdf"
+  },
+  {
+    "id": "doc_031",
+    "url": "https://galenmedical.com/wp-content/uploads/2022/11/Galen-OBGYN-Gunbarrel-Booklet.pdf",
+    "title": "Galen Pregnancy Information Booklet",
+    "source": "GalenMedical",
+    "path": "data/raw/doc_031.pdf"
+  },
+  {
+    "id": "doc_032",
+    "url": "https://www.fhn.org/docs/Pregnancy-Guide.pdf",
+    "title": "YOUR PREGNANCY GUIDE - FHN.org",
+    "source": "fhn.org",
+    "path": "data/raw/doc_032.pdf"
+  },
+  {
+    "id": "doc_033",
+    "url": "https://www.publichealth.hscni.net/sites/default/files/2023-06/Preg%20book%202023%20complete.pdf",
+    "title": "The Pregnancy Book Your complete guide to:",
+    "source": "HSC Public Health Agency",
+    "path": "data/raw/doc_033.pdf"
+  },
+  {
+    "id": "doc_034",
+    "url": "https://stanfordhealthcare.org/content/dam/SHC/clinics/obgyn-partners-for-health/docs/obgyn-pregnancy-guide.pdf",
+    "title": "Practice and Delivery Information Pregnancy Checklist ...",
+    "source": "Stanford Health Care",
+    "path": "data/raw/doc_034.pdf"
+  },
+  {
+    "id": "doc_035",
+    "url": "https://www.bristol.ac.uk/media-library/sites/sps/documents/wtpn/PregBmpBby_1609.pdf",
+    "title": "Pregnancy and Me From Bump to Baby",
+    "source": "University of Bristol",
+    "path": "data/raw/doc_035.pdf"
+  },
+  {
+    "id": "doc_036",
+    "url": "https://axiawh.com/wp-content/uploads/2022/01/Your-Guide-To-A-Healthy-Pregnancy-Jan2022.pdf",
+    "title": "Your Guide to a Healthy Pregnancy",
+    "source": "Axia Women's Health",
+    "path": "data/raw/doc_036.pdf"
+  },
+  {
+    "id": "doc_037",
+    "url": "https://www.lifehealthcare.co.za/media/1567/pregnancy-guide-v2.pdf",
+    "title": "Pregnancy Guide",
+    "source": "Life Healthcare",
+    "path": "data/raw/doc_037.pdf"
+  },
+  {
+    "id": "doc_038",
+    "url": "https://contemporarydoctors.com/wp-content/uploads/2024/04/contemporary-obgyn-book.pdf",
+    "title": "Your Guide To A Pregnancy",
+    "source": "Contemporary Obstetrics & Gynecology",
+    "path": "data/raw/doc_038.pdf"
+  },
+  {
+    "id": "doc_039",
+    "url": "https://www.mcfarlandclinic.com/media/cms/OB_Booklet_WEB_0821_B5325BBB79690.pdf",
+    "title": "for a healthy pregnancy.",
+    "source": "McFarland Clinic",
+    "path": "data/raw/doc_039.pdf"
+  },
+  {
+    "id": "doc_040",
+    "url": "https://www.drmaccares.net/storage/app/media/pregnancy-dos-and-donts.pdf",
+    "title": "Pregnancy Dos and Don'ts",
+    "source": "McInerney Cares",
+    "path": "data/raw/doc_040.pdf"
+  },
+  {
+    "id": "doc_041",
+    "url": "https://www.thewomens.org.au/images/uploads/fact-sheets/Pregnancy-related-carpal-tunnel-210319.pdf",
+    "title": "Pregnancy-related carpal tunnel syndrome",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_041.pdf"
+  },
+  {
+    "id": "doc_042",
+    "url": "https://www.drmaccares.net/storage/app/media/pregnancy-dos-and-donts.pdf",
+    "title": "Pregnancy Dos and Don'ts",
+    "source": "McInerney Cares",
+    "path": "data/raw/doc_042.pdf"
+  },
+  {
+    "id": "doc_043",
+    "url": "https://www.thewomens.org.au/images/uploads/fact-sheets/Pregnancy-related-carpal-tunnel-210319.pdf",
+    "title": "Pregnancy-related carpal tunnel syndrome",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_043.pdf"
+  },
+  {
+    "id": "doc_044",
+    "url": "https://www.huskyhealthct.org/members/Member%20PDFs/education_resources/My_9_Months_magazine.pdf",
+    "title": "Members | My 9 Months: Guide to a Healthy Pregnancy",
+    "source": "HUSKY Health",
+    "path": "data/raw/doc_044.pdf"
+  },
+  {
+    "id": "doc_045",
+    "url": "https://obgyn.duke.edu/sites/default/files/2024-05/A%20Guide%20to%20Your%20Pregnancy.pdf",
+    "title": "Enhanced Recovery After Nephrectomy Surgery",
+    "source": "Duke Department of Obstetrics and Gynecology",
+    "path": "data/raw/doc_045.pdf"
+  },
+  {
+    "id": "doc_046",
+    "url": "https://womenscaregroup.net/wp-content/uploads/2019/10/NOB-Packet-2019.pdf",
+    "title": "Pregnancy Information Packet",
+    "source": "womenscaregroup.net",
+    "path": "data/raw/doc_046.pdf"
+  },
+  {
+    "id": "doc_047",
+    "url": "https://www.aboutwomenobgyn.com/wp-content/uploads/Guide-to-Your-Pregnancy.pdf",
+    "title": "Pregnancy",
+    "source": "About Women Ob-Gyn",
+    "path": "data/raw/doc_047.pdf"
+  },
+  {
+    "id": "doc_048",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo120296/pdf/GOVPUB-D-PURL-gpo120296.pdf",
+    "title": "A Goal Oriented Guide to Prenatal Care",
+    "source": "GovInfo (.gov)",
+    "path": "data/raw/doc_048.pdf"
+  },
+  {
+    "id": "doc_049",
+    "url": "https://healthonline.washington.edu/sites/default/files/record_pdfs/BB1-pp39-42-Common-Symptoms-During-Pregnancy.pdf",
+    "title": "Common Symptoms During Pregnancy | Health Online",
+    "source": "UWMC Health Online",
+    "path": "data/raw/doc_049.pdf"
+  },
+  {
+    "id": "doc_050",
+    "url": "https://health.maryland.gov/phpa/wic/documents/wic_nutrition/guide%20-%20healthy%20pregnancy%20-%20english.pdf",
+    "title": "Your Pregnancy and WIC - Maryland Department of Health",
+    "source": "Maryland.gov",
+    "path": "data/raw/doc_050.pdf"
+  },
+  {
+    "id": "doc_051",
+    "url": "https://www.preeclampsia.org/public/frontend/assets/img/gallery/pdf/My_Health_Beyond_Pregnancy_FINAL_2024.pdf",
+    "title": "My Health Beyond Pregnancy",
+    "source": "Preeclampsia Foundation",
+    "path": "data/raw/doc_051.pdf"
+  },
+  {
+    "id": "doc_052",
+    "url": "https://www.preeclampsia.org/public/frontend/assets/img/gallery/pdf/My_Health_Beyond_Pregnancy_FINAL_2024.pdf",
+    "title": "My Health Beyond Pregnancy",
+    "source": "Preeclampsia Foundation",
+    "path": "data/raw/doc_052.pdf"
+  },
+  {
+    "id": "doc_053",
+    "url": "https://sa1s3.patientpop.com/assets/docs/97762.pdf",
+    "title": "Do's and Don'ts in Pregnancy",
+    "source": "Tebra",
+    "path": "data/raw/doc_053.pdf"
+  },
+  {
+    "id": "doc_054",
+    "url": "https://www.walshmedicalmedia.com/open-access/the-phases-of-pregnancy-from-conception-to-birth-a-comprehensive-guide.pdf",
+    "title": "The Phases of Pregnancy from Conception to Birth",
+    "source": "Walsh Medical Media",
+    "path": "data/raw/doc_054.pdf"
+  },
+  {
+    "id": "doc_055",
+    "url": "https://carteretobgyn.com/wp-content/uploads/2017/11/Pregnancy-Booklet-PART-I.pdf",
+    "title": "Pregnancy Booklet PART I.cdr",
+    "source": "Carteret OBGYN Associates",
+    "path": "data/raw/doc_055.pdf"
+  },
+  {
+    "id": "doc_056",
+    "url": "https://content.sph.harvard.edu/wwwhsph/sites/2413/2014/05/Pregnancy-postpartum-newborn-care.pdf",
+    "title": "Pregnancy, Childbirth, Postpartum and Newborn Care",
+    "source": "Harvard University",
+    "path": "data/raw/doc_056.pdf"
+  },
+  {
+    "id": "doc_057",
+    "url": "https://www.drchristywalker.com/pdf/obfaqs.pdf",
+    "title": "Your Pregnancy: Frequently Asked Questions",
+    "source": "Christy Walker, MD",
+    "path": "data/raw/doc_057.pdf"
+  },
+  {
+    "id": "doc_058",
+    "url": "https://www.blackwellpublishing.com/content/bpl_images/content_store/sample_chapter/1405103310/callahanbpobgyn3e.pdf",
+    "title": "Pregnancy and Prenatal Care",
+    "source": "Wiley-Blackwell",
+    "path": "data/raw/doc_058.pdf"
+  },
+  {
+    "id": "doc_059",
+    "url": "https://valleywomenshealth.com/wp-content/uploads/2021/08/Compressed-Valley-Prenatal-Book-min-2.pdf",
+    "title": "YOUR PREGNANCY HANDBOOK",
+    "source": "Valley Women's Health",
+    "path": "data/raw/doc_059.pdf"
+  },
+  {
+    "id": "doc_060",
+    "url": "https://www.kpwomenshealth.org/documents/KPOC_Pregnancy_Roadmap_DS-1624_eForm.pdf",
+    "title": "Pregnancy Roadmap",
+    "source": "Kaiser Permanente\u00ae Orange County Women\u2019s Health Services",
+    "path": "data/raw/doc_060.pdf"
+  },
+  {
+    "id": "doc_061",
+    "url": "https://www.health.state.mn.us/docs/communities/titlev/carepregdelivery.pdf",
+    "title": "Care during Pregnancy and Delivery",
+    "source": "MN Dept. of Health",
+    "path": "data/raw/doc_061.pdf"
+  },
+  {
+    "id": "doc_062",
+    "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Food-safety-in-pregnancy_240816.pdf",
+    "title": "Food safety in pregnancy - The Royal Women's Hospital",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_062.pdf"
+  },
+  {
+    "id": "doc_063",
+    "url": "https://www.ogdenclinic.com/images/Ogden-Clinic-Pregnancy-eBook.pdf",
+    "title": "Pregnancy",
+    "source": "Ogden Clinic",
+    "path": "data/raw/doc_063.pdf"
+  },
+  {
+    "id": "doc_064",
+    "url": "https://www.dreamababy.com/downloads/Early%20Pregnancy%20Patient%20Instructions.pdf",
+    "title": "Early Pregnancy Patient Instructions",
+    "source": "Specialists in Reproductive Medicine & Surgery",
+    "path": "data/raw/doc_064.pdf"
+  },
+  {
+    "id": "doc_065",
+    "url": "https://www.phfewic.org/wp-content/uploads/2019/10/Im-Pregnant.pdf",
+    "title": "Im-Pregnant.pdf",
+    "source": "PHFE WIC",
+    "path": "data/raw/doc_065.pdf"
+  },
+  {
+    "id": "doc_066",
+    "url": "https://charlestonobgyn.com/wp-content/uploads/2024/07/HRKEzYdIAez1-Print-CHOB-PRENATAL-All-Items-April-2024.pdf",
+    "title": "A Guide to Your Pregnancy",
+    "source": "Charleston OB/GYN",
+    "path": "data/raw/doc_066.pdf"
+  },
+  {
+    "id": "doc_067",
+    "url": "https://gwdocs.com/sites/g/files/zaskib551/files/2021-09/OB-Patient-Guide.pdf",
+    "title": "A Guide for Your Pregnancy Journey",
+    "source": "GW Medical Faculty Associates",
+    "path": "data/raw/doc_067.pdf"
+  },
+  {
+    "id": "doc_068",
+    "url": "https://monashwomens.org/wp-content/uploads/2019/05/Your-pregnancy-care-what-to-expect-what-you-can-do.pdf",
+    "title": "Your pregnancy",
+    "source": "Monash Women's",
+    "path": "data/raw/doc_068.pdf"
+  },
+  {
+    "id": "doc_069",
+    "url": "https://americanspcc.org/wp-content/uploads/2014/01/pregnancy-dos-donts.pdf",
+    "title": "Pregnancy Dos and Don'ts",
+    "source": "American SPCC",
+    "path": "data/raw/doc_069.pdf"
+  },
+  {
+    "id": "doc_070",
+    "url": "https://charlestonobgyn.com/wp-content/uploads/2024/07/HRKEzYdIAez1-Print-CHOB-PRENATAL-All-Items-April-2024.pdf",
+    "title": "A Guide to Your Pregnancy",
+    "source": "Charleston OB/GYN",
+    "path": "data/raw/doc_070.pdf"
+  },
+  {
+    "id": "doc_071",
+    "url": "https://gwdocs.com/sites/g/files/zaskib551/files/2021-09/OB-Patient-Guide.pdf",
+    "title": "A Guide for Your Pregnancy Journey",
+    "source": "GW Medical Faculty Associates",
+    "path": "data/raw/doc_071.pdf"
+  },
+  {
+    "id": "doc_072",
+    "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-381.pdf",
+    "title": "WH-381 (.pdf)",
+    "source": "U.S. Department of Labor (.gov)",
+    "path": "data/raw/doc_072.pdf"
+  },
+  {
+    "id": "doc_073",
+    "url": "https://monashwomens.org/wp-content/uploads/2019/05/Your-pregnancy-care-what-to-expect-what-you-can-do.pdf",
+    "title": "Your pregnancy",
+    "source": "Monash Women's",
+    "path": "data/raw/doc_073.pdf"
+  },
+  {
+    "id": "doc_074",
+    "url": "https://americanspcc.org/wp-content/uploads/2014/01/pregnancy-dos-donts.pdf",
+    "title": "Pregnancy Dos and Don'ts",
+    "source": "American SPCC",
+    "path": "data/raw/doc_074.pdf"
+  },
+  {
+    "id": "doc_075",
+    "url": "https://www.ascalema.es/wp-content/uploads/2014/10/0141G_Pregnancy_childbirth_postpartum._2006.pdf",
+    "title": "Integrated Management of Pregnancy and Childbirth",
+    "source": "Ascalema",
+    "path": "data/raw/doc_075.pdf"
+  },
+  {
+    "id": "doc_076",
+    "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-381.pdf",
+    "title": "WH-381 (.pdf)",
+    "source": "U.S. Department of Labor (.gov)",
+    "path": "data/raw/doc_076.pdf"
+  },
+  {
+    "id": "doc_077",
+    "url": "https://www.advantiahealth.com/wp-content/uploads/2024/09/pregnancy_guide_liv.pdf",
+    "title": "Pregnancy Guide",
+    "source": "Advantia Health",
+    "path": "data/raw/doc_077.pdf"
+  },
+  {
+    "id": "doc_078",
+    "url": "https://monashwomens.org/wp-content/uploads/2019/05/Your-pregnancy-care-what-to-expect-what-you-can-do.pdf",
+    "title": "Your pregnancy",
+    "source": "Monash Women's",
+    "path": "data/raw/doc_078.pdf"
+  },
+  {
+    "id": "doc_079",
+    "url": "https://www.baobgyn.com/storage/app/media/2022files/pregnancy-dos-and-donts.pdf",
+    "title": "Pregnancy Do's and Don'ts",
+    "source": "Bay Area OBGYN Patient Portal",
+    "path": "data/raw/doc_079.pdf"
+  },
+  {
+    "id": "doc_080",
+    "url": "https://poliklinika-harni.hr/images/uploads/252/1st-trimester-of-pregancy.pdf",
+    "title": "The First Trimester of Pregnancy Weeks 1 through 12",
+    "source": "Poliklinika Harni",
+    "path": "data/raw/doc_080.pdf"
+  },
+  {
+    "id": "doc_081",
+    "url": "https://doh.sd.gov/media/bnemplje/fetal.pdf",
+    "title": "FETAL GROWTH AND DEVELOPMENT",
+    "source": "South Dakota Department of Health (.gov)",
+    "path": "data/raw/doc_081.pdf"
+  },
+  {
+    "id": "doc_082",
+    "url": "https://mycohi.org/pdfs/PregNancy_Trifold-NL-FINAL.pdf",
+    "title": "PregNancy Together\u2122",
+    "source": "The Children's Oral Health Institute",
+    "path": "data/raw/doc_082.pdf"
+  },
+  {
+    "id": "doc_083",
+    "url": "https://ranzcog.edu.au/wp-content/uploads/Common-Questions-In-Pregnancy.pdf",
+    "title": "Common Questions in Pregnancy",
+    "source": "ranzcog",
+    "path": "data/raw/doc_083.pdf"
+  },
+  {
+    "id": "doc_084",
+    "url": "https://www.phila.gov/media/20181003154628/FASD_Sign.pdf",
+    "title": "A HEALTHY BABY",
+    "source": "City of Philadelphia (.gov)",
+    "path": "data/raw/doc_084.pdf"
+  },
+  {
+    "id": "doc_085",
+    "url": "https://www.cwcashburn.com/files/01_CWC_PregnancyGuide_SinglePages.pdf",
+    "title": "Pregnancy Guide",
+    "source": "Capital Women's Care Ashburn VA",
+    "path": "data/raw/doc_085.pdf"
+  },
+  {
+    "id": "doc_086",
+    "url": "https://health.cornell.edu/sites/health/files/pdf-library/PlanningPregnancy.pdf",
+    "title": "Planning a Pregnancy?",
+    "source": "Cornell Health",
+    "path": "data/raw/doc_086.pdf"
+  },
+  {
+    "id": "doc_087",
+    "url": "https://mckinley.illinois.edu/sites/default/files/docs/pregnancy_guide_decision_making.pdf",
+    "title": "Pregnancy: A Guide to Decision-Making",
+    "source": "McKinley Health Center",
+    "path": "data/raw/doc_087.pdf"
+  },
+  {
+    "id": "doc_088",
+    "url": "https://www.pregnancyinfo.ca/wp-content/uploads/2017/04/PDF_workingduringpregnancy_ENG.pdf",
+    "title": "WORKING DURING PREGNANCY",
+    "source": "Pregnancy Info",
+    "path": "data/raw/doc_088.pdf"
+  },
+  {
+    "id": "doc_089",
+    "url": "https://millionhearts.hhs.gov/files/Hypertension-in-Pregnancy-508.pdf",
+    "title": "Hypertension in Pregnancy Change Package - Million Hearts\u00ae",
+    "source": "Department of Health and Human Services (HHS) (.gov)",
+    "path": "data/raw/doc_089.pdf"
+  },
+  {
+    "id": "doc_090",
+    "url": "https://www.bcog.com/wp-content/uploads/2022/01/Passport-to-pregnancy-rev.-2022.pdf",
+    "title": "Pregnancy Checklist",
+    "source": "Bedford Commons OB-GYN",
+    "path": "data/raw/doc_090.pdf"
+  },
+  {
+    "id": "doc_091",
+    "url": "https://www.wilmingtonhealth.com/wp-content/uploads/2023/08/23-WILMHEAL-1061-Pregnancy_Guide_-_Updates-0803-F.pdf",
+    "title": "PREGNANCY",
+    "source": "Wilmington Health",
+    "path": "data/raw/doc_091.pdf"
+  },
+  {
+    "id": "doc_092",
+    "url": "https://mn.gov/deed/assets/mnpl-medical-leave-certification-acc_tcm1045-711470.pdf",
+    "title": "Medical Leave certification form - MN.gov",
+    "source": "mn.gov",
+    "path": "data/raw/doc_092.pdf"
+  },
+  {
+    "id": "doc_093",
+    "url": "https://unmhealth.org/_media/files/womens-health/patient-education/post-date-pregnancy-english.pdf",
+    "title": "Post Date Pregnancy [PDF]",
+    "source": "UNM Health System",
+    "path": "data/raw/doc_093.pdf"
+  },
+  {
+    "id": "doc_094",
+    "url": "https://gnplc.ca/wp-content/uploads/2021/04/Guide-to-a-Healthy-Pregnancy-Canada-2021.pdf",
+    "title": "HEALTHY PREGNANCY",
+    "source": "Georgina Nurse Practitioner-Led Clinic",
+    "path": "data/raw/doc_094.pdf"
+  },
+  {
+    "id": "doc_095",
+    "url": "https://labour.gov.in/sites/default/files/the_maternity_benefit_act_1961_0.pdf",
+    "title": "MATERNITY BENEFIT ACT, 1961",
+    "source": "Ministry of Labour & Employment",
+    "path": "data/raw/doc_095.pdf"
+  },
+  {
+    "id": "doc_096",
+    "url": "https://www.coch.nhs.uk/media/175998/pregnancy-notes.pdf",
+    "title": "230633 iPERI-1 Pregnancy Notes A4 28pp copy",
+    "source": "Countess of Chester Hospital",
+    "path": "data/raw/doc_096.pdf"
+  },
+  {
+    "id": "doc_097",
+    "url": "https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-exposure-medicinal-products-during-pregnancy-need-post-authorisation-data_en.pdf",
+    "title": "guideline-exposure-medicinal-products-during-pregnancy ...",
+    "source": "European Medicines Agency",
+    "path": "data/raw/doc_097.pdf"
+  },
+  {
+    "id": "doc_098",
+    "url": "https://www.longdom.org/open-access-pdfs/the-importance-of-prenatal-care-supporting-maternal-and-fetal-health-during-pregnancy.pdf",
+    "title": "Supporting Maternal and Fetal Health during Pregnancy",
+    "source": "Longdom Publishing SL",
+    "path": "data/raw/doc_098.pdf"
+  },
+  {
+    "id": "doc_099",
+    "url": "https://www.healthlinkbc.ca/sites/default/files/documents/BBC_pregnancy-stages.pdf",
+    "title": "Stages of Pregnancy",
+    "source": "HealthLink BC",
+    "path": "data/raw/doc_099.pdf"
+  },
+  {
+    "id": "doc_100",
+    "url": "https://www.beststart.org/resources/rep_health/Health_Before_pregnancy_2011_FULL.pdf",
+    "title": "Is there a baby in your future? Plan for it.",
+    "source": "Best Start Resource Centre",
+    "path": "data/raw/doc_100.pdf"
+  },
+  {
+    "id": "doc_101",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HE20_3000-PURL-gpo72019/pdf/GOVPUB-HE20_3000-PURL-gpo72019.pdf",
+    "title": "Fit for Two: Tips for Pregnancy",
+    "source": "GovInfo (.gov)",
+    "path": "data/raw/doc_101.pdf"
+  },
+  {
+    "id": "doc_102",
+    "url": "https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/pregnancyfactsheet.pdf",
+    "title": "Pregnancy Fact Sheet",
+    "source": "Crohn's & Colitis Foundation",
+    "path": "data/raw/doc_102.pdf"
+  },
+  {
+    "id": "doc_103",
+    "url": "https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf",
+    "title": "KDIGO-2024-CKD-Guideline.pdf",
+    "source": "KDIGO \u2013 KIDNEY DISEASE | IMPROVING GLOBAL OUTCOMES",
+    "path": "data/raw/doc_103.pdf"
+  },
+  {
+    "id": "doc_104",
+    "url": "https://www.iowaclinic.com/Content/cms/documents/Services/OBGYN/OBG_2025_PregnancyGuide.pdf",
+    "title": "Pregnancy Guide",
+    "source": "The Iowa Clinic",
+    "path": "data/raw/doc_104.pdf"
+  },
+  {
+    "id": "doc_105",
+    "url": "https://mchb.hrsa.gov/sites/default/files/mchb/programs-impact/depression-during-after-pregnancy-en.pdf",
+    "title": "Depression During and After Pregnancy",
+    "source": "Maternal and Child Health Bureau (.gov)",
+    "path": "data/raw/doc_105.pdf"
+  },
+  {
+    "id": "doc_106",
+    "url": "https://eziz.org/assets/docs/IMM-887.pdf",
+    "title": "IMM-887 Immunizations For a Healthy Pregnancy (ADA)",
+    "source": "EZIZ.org",
+    "path": "data/raw/doc_106.pdf"
+  },
+  {
+    "id": "doc_107",
+    "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/Publications/strong-women-strong-babies-pregnancy-diary.pdf",
+    "title": "Strong Women Strong Babies Pregnancy Diary",
+    "source": "NSW Health",
+    "path": "data/raw/doc_107.pdf"
+  },
+  {
+    "id": "doc_108",
+    "url": "https://mckinley.illinois.edu/sites/default/files/docs/pregnancy_guide_decision_making.pdf",
+    "title": "Pregnancy: A Guide to Decision-Making",
+    "source": "McKinley Health Center",
+    "path": "data/raw/doc_108.pdf"
+  },
+  {
+    "id": "doc_109",
+    "url": "https://millionhearts.hhs.gov/files/Hypertension-in-Pregnancy-508.pdf",
+    "title": "Hypertension in Pregnancy Change Package - Million Hearts\u00ae",
+    "source": "Department of Health and Human Services (HHS) (.gov)",
+    "path": "data/raw/doc_109.pdf"
+  },
+  {
+    "id": "doc_110",
+    "url": "https://www.bcog.com/wp-content/uploads/2022/01/Passport-to-pregnancy-rev.-2022.pdf",
+    "title": "Pregnancy Checklist",
+    "source": "Bedford Commons OB-GYN",
+    "path": "data/raw/doc_110.pdf"
+  },
+  {
+    "id": "doc_111",
+    "url": "https://paidleave.wa.gov/app/uploads/2022/05/Pregnancy-and-Birth-Certifications-Paid-Leave-English-Spanish-2024.06.14.pdf",
+    "title": "Pregnancy & Birth Certifications Certificados de embarazo y ...",
+    "source": "| WA.gov",
+    "path": "data/raw/doc_111.pdf"
+  },
+  {
+    "id": "doc_112",
+    "url": "https://mn.gov/deed/assets/mnpl-medical-leave-certification-acc_tcm1045-711470.pdf",
+    "title": "Medical Leave certification form - MN.gov",
+    "source": "mn.gov",
+    "path": "data/raw/doc_112.pdf"
+  },
+  {
+    "id": "doc_113",
+    "url": "https://assets.hse.ie/media/documents/HSE_My_Pregnancy_book.pdf",
+    "title": "My Pregnancy",
+    "source": "HSE.ie",
+    "path": "data/raw/doc_113.pdf"
+  },
+  {
+    "id": "doc_114",
+    "url": "https://browardhsc.org/wp-content/uploads/2013/10/DOCUMENTS-REQUIRED-FOR-PREGNANCY-MEDICAID-APPROVAL-updated-8-2013.pdf",
+    "title": "documents required for pregnancy medicaid approval",
+    "source": "Broward Healthy Start Coalition",
+    "path": "data/raw/doc_114.pdf"
+  },
+  {
+    "id": "doc_115",
+    "url": "https://www.rcog.org.uk/media/qejfhcaj/gtg-37a.pdf",
+    "title": "Reducing the Risk of Venous Thromboembolism during ...",
+    "source": "RCOG",
+    "path": "data/raw/doc_115.pdf"
+  },
+  {
+    "id": "doc_116",
+    "url": "https://www.irs.gov/pub/irs-pdf/i1040sca.pdf",
+    "title": "2025 Instructions for Schedule A (Form 1040)",
+    "source": "IRS (.gov)",
+    "path": "data/raw/doc_116.pdf"
+  },
+  {
+    "id": "doc_117",
+    "url": "https://www.opm.gov/forms/pdf_fill/sf86.pdf",
+    "title": "Standard Form 86 - Questionnaire for National Security",
+    "source": "OPM.gov",
+    "path": "data/raw/doc_117.pdf"
+  },
+  {
+    "id": "doc_118",
+    "url": "https://www.chrc-ccdp.gc.ca/sites/default/files/publication-pdfs/pregnancy_policy_0.pdf",
+    "title": "PREGNANCY & HUMAN RIGHTS IN THE WORKPLACE",
+    "source": "Canadian Human Rights Commission",
+    "path": "data/raw/doc_118.pdf"
+  },
+  {
+    "id": "doc_119",
+    "url": "https://www.immunize.ca/sites/default/files/Resource%20and%20Product%20Uploads%20(PDFs)/Products%20and%20Resources/Pregnancy/vaccines_pregnancy_web_e.pdf",
+    "title": "Vaccines in pregnancy: What you need to know",
+    "source": "Immunize Canada",
+    "path": "data/raw/doc_119.pdf"
+  },
+  {
+    "id": "doc_120",
+    "url": "https://www.novo-pi.com/wegovy.pdf",
+    "title": "Wegovy PI",
+    "source": "novo-pi.com",
+    "path": "data/raw/doc_120.pdf"
+  },
+  {
+    "id": "doc_121",
+    "url": "https://www.embo.org/documents/PDF/Postdoctoral_Fellowships_guidelines.pdf",
+    "title": "Application guidelines",
+    "source": "EMBO",
+    "path": "data/raw/doc_121.pdf"
+  },
+  {
+    "id": "doc_122",
+    "url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pdfs/womens-health/guide-to-pregnancy-p1-05-2024.pdf",
+    "title": "Emory Healthcare",
+    "source": "Emory Healthcare",
+    "path": "data/raw/doc_122.pdf"
+  },
+  {
+    "id": "doc_123",
+    "url": "https://www.health.state.mn.us/docs/people/wic/nutrition/english/pghealthtips.pdf",
+    "title": "Health Tips for Pregnancy",
+    "source": "MN Dept. of Health",
+    "path": "data/raw/doc_123.pdf"
+  },
+  {
+    "id": "doc_124",
+    "url": "https://oklahoma.gov/content/dam/ok/en/okhca/docs/individuals/mysoonercare-portal/Document%20Verification%20Guide.pdf",
+    "title": "SOONERCARE DOCUMENT VERIFICATION GUIDE",
+    "source": "oklahoma.gov",
+    "path": "data/raw/doc_124.pdf"
+  },
+  {
+    "id": "doc_125",
+    "url": "https://www.fepblue.org/-/media/PDFs/Brochures/Standard-and-Basic-brochure-2026.pdf",
+    "title": "Standard-and-Basic-brochure-2026.pdf",
+    "source": "FEP Blue",
+    "path": "data/raw/doc_125.pdf"
+  },
+  {
+    "id": "doc_126",
+    "url": "https://www.nichd.nih.gov/sites/default/files/inline-files/Pregnancy_Reference_Card_rev.pdf",
+    "title": "Pregnancy Reference Card",
+    "source": "National Institute of Child Health and Human Development (.gov)",
+    "path": "data/raw/doc_126.pdf"
+  },
+  {
+    "id": "doc_127",
+    "url": "https://www.advantiahealth.com/wp-content/uploads/2024/09/pregnancy_guide_obgynshadygrove.pdf",
+    "title": "PREGNANCY GUIDE",
+    "source": "Advantia Health",
+    "path": "data/raw/doc_127.pdf"
+  },
+  {
+    "id": "doc_128",
+    "url": "https://odphp.health.gov/sites/default/files/2019-11/13-Pregnancy-WG-Presentation.pdf",
+    "title": "Pregnancy",
+    "source": "Office of the Assistant Secretary for Health (.gov)",
+    "path": "data/raw/doc_128.pdf"
+  },
+  {
+    "id": "doc_129",
+    "url": "https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/fn-an/alt_formats/pdf/nutrition/prenatal/ewba-mbsa-eng.pdf",
+    "title": "Healthy weight gain during pregnancy",
+    "source": "Canada.ca",
+    "path": "data/raw/doc_129.pdf"
+  },
+  {
+    "id": "doc_130",
+    "url": "https://ginasthma.org/wp-content/uploads/2025/11/GINA-Summary-Guide-2025-WEB_FINAL-WMS.pdf",
+    "title": "Summary Guide for Asthma Management and Prevention",
+    "source": "Global Initiative for Asthma - GINA",
+    "path": "data/raw/doc_130.pdf"
+  },
+  {
+    "id": "doc_131",
+    "url": "https://careers.starbucks.com/uploads/2025/05/Dress-Code-Guide-US-CO.pdf",
+    "title": "Dress Code Guide - US-CO",
+    "source": "Starbucks Careers",
+    "path": "data/raw/doc_131.pdf"
+  },
+  {
+    "id": "doc_132",
+    "url": "https://careers.starbucks.com/uploads/2025/05/Dress-Code-Guide-US-CO.pdf",
+    "title": "Dress Code Guide - US-CO",
+    "source": "Starbucks Careers",
+    "path": "data/raw/doc_132.pdf"
+  },
+  {
+    "id": "doc_133",
+    "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00025010.pdf",
+    "title": "efta00025010 | epstein, jeffrey; child sex trafficking",
+    "source": "Department of Justice (.gov)",
+    "path": "data/raw/doc_133.pdf"
+  },
+  {
+    "id": "doc_134",
+    "url": "https://www.nin.res.in/downloads/DietaryGuidelinesforNINwebsite.pdf",
+    "title": "Dietary Guidelines for Indians",
+    "source": "ICMR-National Institute of Nutrition",
+    "path": "data/raw/doc_134.pdf"
+  },
+  {
+    "id": "doc_135",
+    "url": "https://www.publichealth.hscni.net/sites/default/files/2024-04/Pregnancy%20Book%202024.pdf",
+    "title": "The Pregnancy Book",
+    "source": "HSC Public Health Agency",
+    "path": "data/raw/doc_135.pdf"
+  },
+  {
+    "id": "doc_136",
+    "url": "https://tradocfcoeccafcoepfwprod.blob.core.usgovcloudapi.net/428-fa-bde/bolcb/doc/670_1.pdf",
+    "title": "Wear and Appearance of Army Uniforms and Insignia",
+    "source": "usgovcloudapi.net",
+    "path": "data/raw/doc_136.pdf"
+  },
+  {
+    "id": "doc_137",
+    "url": "https://tradocfcoeccafcoepfwprod.blob.core.usgovcloudapi.net/428-fa-bde/bolcb/doc/670_1.pdf",
+    "title": "Wear and Appearance of Army Uniforms and Insignia",
+    "source": "usgovcloudapi.net",
+    "path": "data/raw/doc_137.pdf"
+  },
+  {
+    "id": "doc_138",
+    "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-E.pdf",
+    "title": "Certification of Health Care Provider for Employee's ...",
+    "source": "U.S. Department of Labor (.gov)",
+    "path": "data/raw/doc_138.pdf"
+  },
+  {
+    "id": "doc_139",
+    "url": "https://ona.org/wp-content/uploads/2025/09/2025HospitalProvincial_Highlights_20250905.pdf",
+    "title": "HIGHLIGHTS OF COLLECTIVE AGREEMENT CHANGES ...",
+    "source": "Ontario Nurses' Association",
+    "path": "data/raw/doc_139.pdf"
+  },
+  {
+    "id": "doc_140",
+    "url": "https://catalogue.servicecanada.gc.ca/apps/EForms/pdf/en/SC-INS5140.pdf",
+    "title": "Medical Certificate for Employment Insurance Sickness Benefits",
+    "source": "Service Canada Forms",
+    "path": "data/raw/doc_140.pdf"
+  },
+  {
+    "id": "doc_141",
+    "url": "https://www.mea.gov.in/images/pdf1/part4.pdf",
+    "title": "PART IV DIRECTIVE PRINCIPLES OF STATE POLICY",
+    "source": "Ministry of External Affairs",
+    "path": "data/raw/doc_141.pdf"
+  },
+  {
+    "id": "doc_142",
+    "url": "https://esic.gov.in/attachments/files/faq.pdf",
+    "title": "faq.pdf",
+    "source": "ESIC",
+    "path": "data/raw/doc_142.pdf"
+  },
+  {
+    "id": "doc_143",
+    "url": "https://unmhealth.org/_media/files/womens-health/patient-education/common-discomforts-english.pdf",
+    "title": "Common Discomforts During Pregnancy",
+    "source": "UNM Health System",
+    "path": "data/raw/doc_143.pdf"
+  },
+  {
+    "id": "doc_144",
+    "url": "https://censusnepal.cbs.gov.np/results/files/result-folder/Nepal%20Maternal%20Mortality%20Report%202021.pdf",
+    "title": "A REPORT On MATERnAL MORTALITY",
+    "source": "Census Nepal 2078",
+    "path": "data/raw/doc_144.pdf"
+  },
+  {
+    "id": "doc_145",
+    "url": "https://ranzcog.edu.au/wp-content/uploads/Planning-for-Pregnancy.pdf",
+    "title": "Planning for Pregnancy",
+    "source": "ranzcog",
+    "path": "data/raw/doc_145.pdf"
+  },
+  {
+    "id": "doc_146",
+    "url": "https://www.westpac.com.au/content/dam/public/wbc/documents/pdf/pb/credit-cards/WBC_Consumer_Credit_Card_Comp_Insurance_Allianz.pdf",
+    "title": "Westpac Credit Cards Complimentary Insurance",
+    "source": "Westpac",
+    "path": "data/raw/doc_146.pdf"
+  },
+  {
+    "id": "doc_147",
+    "url": "https://www.rcog.org.uk/media/nyinaztx/gtg_61.pdf",
+    "title": "Management of Sickle Cell Disease in Pregnancy",
+    "source": "RCOG",
+    "path": "data/raw/doc_147.pdf"
+  },
+  {
+    "id": "doc_148",
+    "url": "https://www.thewomens.org.au/images/uploads/fact-sheets/Pregnancy-related-carpal-tunnel-210319.pdf",
+    "title": "Pregnancy-related carpal tunnel syndrome",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_148.pdf"
+  },
+  {
+    "id": "doc_149",
+    "url": "https://platform.who.int/docs/default-source/mca-documents/policy-documents/guideline/zaf-mn-21-01-guideline-2017-eng-principles-of-good-care---guidelines.pdf",
+    "title": "Assess the pregnant woman \u25ba Pregnancy status, birth and ...",
+    "source": "World Health Organization (WHO)",
+    "path": "data/raw/doc_149.pdf"
+  },
+  {
+    "id": "doc_150",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A17-PURL-gpo72068/pdf/GOVPUB-A17-PURL-gpo72068.pdf",
+    "title": "Nutrition During Pregnancy Resource List",
+    "source": "GovInfo (.gov)",
+    "path": "data/raw/doc_150.pdf"
+  },
+  {
+    "id": "doc_151",
+    "url": "http://depts.washington.edu/pwdlearn/firststeps/pdfs/mod2print.pdf",
+    "title": "First Steps Nutrition Modules Module 2",
+    "source": "UW Homepage",
+    "path": "data/raw/doc_151.pdf"
+  },
+  {
+    "id": "doc_152",
+    "url": "https://www.albertahealthservices.ca/ps-1029951-2013-PARmedX-for-pregnancy.pdf",
+    "title": "PARmed-X for Pregnancy",
+    "source": "Alberta Health Services",
+    "path": "data/raw/doc_152.pdf"
+  },
+  {
+    "id": "doc_153",
+    "url": "https://assets.publishing.service.gov.uk/media/64fb1f931886eb000d977029/sure-start-maternity-grant-sf100.pdf",
+    "title": "SF100 Sure Start Maternity Grant claim form",
+    "source": "GOV.UK",
+    "path": "data/raw/doc_153.pdf"
+  },
+  {
+    "id": "doc_154",
+    "url": "https://www.govinfo.gov/content/pkg/GOVPUB-A17-PURL-gpo72068/pdf/GOVPUB-A17-PURL-gpo72068.pdf",
+    "title": "Nutrition During Pregnancy Resource List",
+    "source": "GovInfo (.gov)",
+    "path": "data/raw/doc_154.pdf"
+  },
+  {
+    "id": "doc_155",
+    "url": "http://depts.washington.edu/pwdlearn/firststeps/pdfs/mod2print.pdf",
+    "title": "First Steps Nutrition Modules Module 2",
+    "source": "UW Homepage",
+    "path": "data/raw/doc_155.pdf"
+  },
+  {
+    "id": "doc_156",
+    "url": "https://www.sss.gov.ph/wp-content/uploads/2024/10/SIC-01841.pdf",
+    "title": "MATERNITY NOTIFICATION",
+    "source": "SSS",
+    "path": "data/raw/doc_156.pdf"
+  },
+  {
+    "id": "doc_157",
+    "url": "https://www.albertahealthservices.ca/ps-1029951-2013-PARmedX-for-pregnancy.pdf",
+    "title": "PARmed-X for Pregnancy",
+    "source": "Alberta Health Services",
+    "path": "data/raw/doc_157.pdf"
+  },
+  {
+    "id": "doc_158",
+    "url": "https://www.irs.gov/pub/irs-pdf/p523.pdf",
+    "title": "2024 Publication 523",
+    "source": "IRS (.gov)",
+    "path": "data/raw/doc_158.pdf"
+  },
+  {
+    "id": "doc_159",
+    "url": "https://www.ema.europa.eu/en/documents/product-information/yorvipath-epar-product-information_en.pdf",
+    "title": "Yorvipath, INN-palopegteriparatide - EMA",
+    "source": "European Medicines Agency",
+    "path": "data/raw/doc_159.pdf"
+  },
+  {
+    "id": "doc_160",
+    "url": "https://mva.maryland.gov/Documents/VR-210.pdf",
+    "title": "Application for Maryland Parking Placards/License Plates",
+    "source": "Maryland Motor Vehicle Administration (.gov)",
+    "path": "data/raw/doc_160.pdf"
+  },
+  {
+    "id": "doc_161",
+    "url": "https://www.novo-pi.com/ozempic.pdf",
+    "title": "Ozempic PI",
+    "source": "novo-pi.com",
+    "path": "data/raw/doc_161.pdf"
+  },
+  {
+    "id": "doc_162",
+    "url": "https://www.publichealth.hscni.net/sites/default/files/2024-04/Pregnancy%20Book%202024.pdf",
+    "title": "The Pregnancy Book",
+    "source": "HSC Public Health Agency",
+    "path": "data/raw/doc_162.pdf"
+  },
+  {
+    "id": "doc_163",
+    "url": "https://www.nhlbi.nih.gov/sites/default/files/publications/THT-HBP-WomenPregnancyFactSheet_508.pdf",
+    "title": "Pregnancy and Your Heart Health",
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "path": "data/raw/doc_163.pdf"
+  },
+  {
+    "id": "doc_164",
+    "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Important_things_to_know_in_early_pregnancy_250508.pdf",
+    "title": "Important things to know in early pregnancy",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_164.pdf"
+  },
+  {
+    "id": "doc_165",
+    "url": "https://doh.wa.gov/sites/default/files/legacy/Documents/8200/348-464-MomImm-en-L.pdf",
+    "title": "Pregnancy and Vaccines",
+    "source": "Washington State Department of Health (.gov)",
+    "path": "data/raw/doc_165.pdf"
+  },
+  {
+    "id": "doc_166",
+    "url": "https://www.kcl.ac.uk/assets/policyzone/staff/maternity-policy.pdf",
+    "title": "Maternity Leave and Pay Policy",
+    "source": "King's College London",
+    "path": "data/raw/doc_166.pdf"
+  },
+  {
+    "id": "doc_167",
+    "url": "https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/WH-380-F.pdf",
+    "title": "Certification of Health Care Provider for Family Member's ...",
+    "source": "U.S. Department of Labor (.gov)",
+    "path": "data/raw/doc_167.pdf"
+  },
+  {
+    "id": "doc_168",
+    "url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pdfs/womens-health/ws-guide-to-pregnancy-part-two.pdf",
+    "title": "COUNTDOWN TO DELIVERY",
+    "source": "Emory Healthcare",
+    "path": "data/raw/doc_168.pdf"
+  },
+  {
+    "id": "doc_169",
+    "url": "https://www.healthlinkbc.ca/sites/default/files/documents/BBC_pregnancy-eating.pdf",
+    "title": "Eating well during pregnancy will give your",
+    "source": "HealthLink BC",
+    "path": "data/raw/doc_169.pdf"
+  },
+  {
+    "id": "doc_170",
+    "url": "https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/Guildelines_for_immunization/MCP_Card_English_version.pdf",
+    "title": "MOTHER AND CHILD PROTECTION CARD",
+    "source": "National Health Mission",
+    "path": "data/raw/doc_170.pdf"
+  },
+  {
+    "id": "doc_171",
+    "url": "https://www.health.state.mn.us/docs/people/wic/nutrition/english/pgeatwell.pdf",
+    "title": "Eating Well During Pregnancy",
+    "source": "MN Dept. of Health",
+    "path": "data/raw/doc_171.pdf"
+  },
+  {
+    "id": "doc_172",
+    "url": "https://labour.gov.in/sites/default/files/ss_code_gazette.pdf",
+    "title": "THE CODE ON SOCIAL SECURITY, 2020 NO. 36 OF ...",
+    "source": "Ministry of Labour & Employment",
+    "path": "data/raw/doc_172.pdf"
+  },
+  {
+    "id": "doc_173",
+    "url": "https://nepal.unfpa.org/sites/default/files/pub-pdf/The%20Right%20to%20Safe%20Motherhood%20and%20Reproductive%20Health%20Act%202075.pdf",
+    "title": "The Right to Safe Motherhood and Reproductive Health ...",
+    "source": "UNFPA Nepal",
+    "path": "data/raw/doc_173.pdf"
+  },
+  {
+    "id": "doc_174",
+    "url": "https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/vaccines-immunization/vaccination-pregnancy-fact-sheet.pdf",
+    "title": "Vaccination and Pregnancy Fact Sheet",
+    "source": "Canada.ca",
+    "path": "data/raw/doc_174.pdf"
+  },
+  {
+    "id": "doc_175",
+    "url": "https://www.rcog.org.uk/media/y3fen1x1/gtg69-hyperemesis.pdf",
+    "title": "The Management of Nausea and Vomiting of Pregnancy ...",
+    "source": "RCOG",
+    "path": "data/raw/doc_175.pdf"
+  },
+  {
+    "id": "doc_176",
+    "url": "https://www.brighamandwomens.org/assets/bwh/obgyn/pdfs/nob-common-meds-safe-in-pregnancy.pdf",
+    "title": "COMMON MEDICATIONS SAFE IN PREGNANCY",
+    "source": "Brigham and Women's Hospital",
+    "path": "data/raw/doc_176.pdf"
+  },
+  {
+    "id": "doc_177",
+    "url": "https://www.sss.gov.ph/wp-content/uploads/2022/03/SIC_01241.pdf",
+    "title": "SIC_01241.pdf",
+    "source": "SSS",
+    "path": "data/raw/doc_177.pdf"
+  },
+  {
+    "id": "doc_178",
+    "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Good-nutrition-for-pregnancy-2018.pdf",
+    "title": "Good nutrition for pregnancy - The Royal Women's Hospital",
+    "source": "The Royal Women's Hospital",
+    "path": "data/raw/doc_178.pdf"
+  },
+  {
+    "id": "doc_179",
+    "url": "https://www.sss.gov.ph/wp-content/uploads/2022/03/SIC_01241.pdf",
+    "title": "SIC_01241.pdf",
+    "source": "SSS",
+    "path": "data/raw/doc_179.pdf"
+  },
+  {
+    "id": "doc_180",
+    "url": "https://www.publichealth.hscni.net/sites/default/files/Cover%20and%20contents.pdf",
+    "title": "The Pregnancy Book",
+    "source": "HSC Public Health Agency",
+    "path": "data/raw/doc_180.pdf"
+  },
+  {
+    "id": "doc_181",
+    "url": "https://www.mohfw.gov.in/sites/default/files/NP-NCD%20Operational%20Guidelines_0.pdf",
+    "title": "NP-NCD Operational Guidelines_0.pdf",
+    "source": "Ministry of Health and Family Welfare",
+    "path": "data/raw/doc_181.pdf"
+  },
+  {
+    "id": "doc_182",
+    "url": "https://www.health.nsw.gov.au/immunisation/publications/nsw-immunisation-schedule.pdf",
+    "title": "NSW Immunisation Schedule",
+    "source": "NSW Health",
+    "path": "data/raw/doc_182.pdf"
+  },
+  {
+    "id": "doc_183",
+    "url": "https://assets.publishing.service.gov.uk/media/68add931969253904d155860/Keeping_children_safe_in_education_from_1_September_2025.pdf",
+    "title": "Keeping children safe in education 2025",
+    "source": "GOV.UK",
+    "path": "data/raw/doc_183.pdf"
+  },
+  {
+    "id": "doc_184",
+    "url": "https://labour.gov.in/sites/default/files/theemployeesact1948_0.pdf",
+    "title": "EMPLOYEES' STATE INSURANCE ACT, 1948",
+    "source": "Ministry of Labour & Employment",
+    "path": "data/raw/doc_184.pdf"
+  },
+  {
+    "id": "doc_185",
+    "url": "https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/report/National_%20Immunization_Schedule.pdf",
+    "title": "National Immunization Schedule",
+    "source": "National Health Mission",
+    "path": "data/raw/doc_185.pdf"
+  },
+  {
+    "id": "doc_186",
+    "url": "https://www.rcog.org.uk/media/agqdhd3g/being-overweight-in-pregnancy-patient-information-leaflet.pdf",
+    "title": "being-overweight-in-pregnancy-patient-information-leaflet. ...",
+    "source": "RCOG",
+    "path": "data/raw/doc_186.pdf"
+  },
+  {
+    "id": "doc_187",
+    "url": "https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/fn-an/alt_formats/hpfb-dgpsa/pdf/pubs/guide-prenatal-eng.pdf",
+    "title": "Prenatal Nutrition Guidelines for Health Professionals",
+    "source": "Canada.ca",
+    "path": "data/raw/doc_187.pdf"
+  },
+  {
+    "id": "doc_188",
+    "url": "https://www.health.state.mn.us/docs/people/wic/nutrition/english/pgweightgain.pdf",
+    "title": "WEIGHT GAIN DURING PREGNANCY",
+    "source": "MN Dept. of Health",
+    "path": "data/raw/doc_188.pdf"
+  },
+  {
+    "id": "doc_189",
+    "url": "https://www.cdc.gov/hearher/resources/download-share/docs/pdf/Warning-Signs-Poster-LTR-English.pdf",
+    "title": "Pregnant now or within the last year?",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_189.pdf"
+  },
+  {
+    "id": "doc_190",
+    "url": "https://www1.nichd.nih.gov/publications/pubs/Documents/managing_gestational_diabetes.pdf",
+    "title": "Managing Gestational Diabetes",
+    "source": "National Institutes of Health (NIH) | (.gov)",
+    "path": "data/raw/doc_190.pdf"
+  },
+  {
+    "id": "doc_191",
+    "url": "https://tbcindia.mohfw.gov.in/wp-content/uploads/2025/01/National-Guidelines-for-Management-of-DR-TB_Final.pdf",
+    "title": "National Guidelines for Management of Drug Resistant TB",
+    "source": "Ministry of Health and Family Welfare",
+    "path": "data/raw/doc_191.pdf"
+  },
+  {
+    "id": "doc_192",
+    "url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de2320.pdf",
+    "title": "For Your Benefit: California's Programs for the Unemployed ...",
+    "source": "Employment Development Department | California (.gov)",
+    "path": "data/raw/doc_192.pdf"
+  },
+  {
+    "id": "doc_193",
+    "url": "https://www.rcog.org.uk/media/xyhhyqgr/pi-multiple-pregnancy.pdf",
+    "title": "pi-multiple-pregnancy.pdf",
+    "source": "RCOG",
+    "path": "data/raw/doc_193.pdf"
+  },
+  {
+    "id": "doc_194",
+    "url": "https://www.cdc.gov/prams/pdf/questionnaire/phase5_corequestions.pdf",
+    "title": "Pregnancy Risk Assessment Monitoring System (PRAMS)",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_194.pdf"
+  },
+  {
+    "id": "doc_195",
+    "url": "https://paidleave.wa.gov/app/uploads/2022/05/Family-Leave-Certification-Paid-Leave-English-Spanish-2024.06.14.pdf",
+    "title": "Family Leave Certification Certificado de permiso familiar",
+    "source": "| WA.gov",
+    "path": "data/raw/doc_195.pdf"
+  },
+  {
+    "id": "doc_196",
+    "url": "https://www.cdc.gov/maternal-infant-health/media/pdfs/Normal_Weight_Tracker_508Tagged.pdf",
+    "title": "Tracking Your Weight for Women Who Begin Pregnancy at ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_196.pdf"
+  },
+  {
+    "id": "doc_197",
+    "url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de2501.pdf",
+    "title": "Application for Disability Insurance Benefits (DE 2501 ... - EDD",
+    "source": "Employment Development Department | California (.gov)",
+    "path": "data/raw/doc_197.pdf"
+  },
+  {
+    "id": "doc_198",
+    "url": "https://paidleave.wa.gov/app/uploads/2022/05/Medical-Certification-Paid-Leave-English-Spanish-2024.06.14.pdf",
+    "title": "Medical Certification Certificado m\u00e9dico",
+    "source": "| WA.gov",
+    "path": "data/raw/doc_198.pdf"
+  },
+  {
+    "id": "doc_199",
+    "url": "https://www.cdc.gov/pregnancy/documents/shared-bd/Diabetes_and_Pregnancy508.pdf",
+    "title": "Diabetes and Pregnancy",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_199.pdf"
+  },
+  {
+    "id": "doc_200",
+    "url": "https://www.cdc.gov/pertussis/downloads/fs-protecting-before-birth.pdf",
+    "title": "You Can Start Protecting Your Baby from Whooping Cough ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_200.pdf"
+  },
+  {
+    "id": "doc_201",
+    "url": "https://www.cdc.gov/mmwr/volumes/73/wr/pdfs/mm7348a1-H.pdf",
+    "title": "Intimate Partner Violence and Pregnancy and Infant Health ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_201.pdf"
+  },
+  {
+    "id": "doc_202",
+    "url": "https://ftp.cdc.gov/pub/health_Statistics/nchs/Dataset_Documentation/NSFG/Cycle6Codebook-Pregnancy.pdf",
+    "title": "NSFG Cycle 6 Female Pregnancy File 1 of 111",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_202.pdf"
+  },
+  {
+    "id": "doc_203",
+    "url": "https://www.cdc.gov/listeria/pdf/protect-your-pregnancy-h.pdf",
+    "title": "Protect your pregnancy from Listeria",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_203.pdf"
+  },
+  {
+    "id": "doc_204",
+    "url": "https://www.cdc.gov/maternal-infant-health/media/pdfs/Overweight_Tracker_508Tagged.pdf",
+    "title": "Tracking Your Weight for Women Who Begin Pregnancy ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_204.pdf"
+  },
+  {
+    "id": "doc_205",
+    "url": "https://www.cdc.gov/nchs/data/series/sr_02/sr02-201.pdf",
+    "title": "Vital and Health Statistics, Series 2, Number 201",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_205.pdf"
+  },
+  {
+    "id": "doc_206",
+    "url": "https://www.cdc.gov/brucellosis/media/pdfs/2025/02/brucellosi-reference-guide.pdf",
+    "title": "Brucellosis Reference Guide: Exposures, Testing and ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_206.pdf"
+  },
+  {
+    "id": "doc_207",
+    "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/downloads/adult/adult-combined-schedule.pdf",
+    "title": "Recommended Adult Immunization Schedule",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_207.pdf"
+  },
+  {
+    "id": "doc_208",
+    "url": "https://www.cdc.gov/vaccines/hcp/current-vis/downloads/flu.pdf",
+    "title": "Influenza (Flu) Vaccine (Inactivated or Recombinant)",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_208.pdf"
+  },
+  {
+    "id": "doc_209",
+    "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/downloads/child/0-18yrs-child-combined-schedule.pdf",
+    "title": "Recommended Child and Adolescent Immunization ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_209.pdf"
+  },
+  {
+    "id": "doc_210",
+    "url": "https://wwwnc.cdc.gov/eid/article/31/12/pdfs/25-0703.pdf",
+    "title": "Case of Congenital Tularemia with Neuroinvasive Disease, ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_210.pdf"
+  },
+  {
+    "id": "doc_211",
+    "url": "https://wwwnc.cdc.gov/eid/article/31/12/pdfs/25-0396.pdf",
+    "title": "Guinea Pig Model for Lassa Virus Infection of Reproductive ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_211.pdf"
+  },
+  {
+    "id": "doc_212",
+    "url": "https://wwwnc.cdc.gov/eid/article/31/12/pdfs/25-0396.pdf",
+    "title": "Guinea Pig Model for Lassa Virus Infection of Reproductive ...",
+    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+    "path": "data/raw/doc_212.pdf"
+  }
+]

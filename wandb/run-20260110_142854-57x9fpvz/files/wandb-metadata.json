@@ -1,0 +1,50 @@
+{
+  "os":  "Linux-6.8.0-87-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.19",
+  "startedAt":  "2026-01-10T10:28:54.234044Z",
+  "args":  [
+    "--train"
+  ],
+  "program":  "/home/ahmed.aboeitta/energyai/pipeline.py",
+  "codePath":  "pipeline.py",
+  "codePathLocal":  "pipeline.py",
+  "git":  {
+    "remote":  "https://github.com/ahmedaboeitta/energyai.git",
+    "commit":  "a6dcb5948f1c28361992496267c9f1866b4f9672"
+  },
+  "email":  "ahmed.aboeitta@mbzuai.ac.ae",
+  "root":  "/home/ahmed.aboeitta/energyai",
+  "host":  "ws006345",
+  "executable":  "/home/ahmed.aboeitta/miniconda3/envs/energy/bin/python",
+  "cpu_count":  32,
+  "cpu_count_logical":  64,
+  "gpu":  "NVIDIA RTX 6000 Ada Generation",
+  "gpu_count":  2,
+  "disk":  {
+    "/":  {
+      "total":  "1611257741312",
+      "used":  "1482662739968"
+    }
+  },
+  "memory":  {
+    "total":  "134534991872"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA RTX 6000 Ada Generation",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  18176,
+      "architecture":  "Ada",
+      "uuid":  "GPU-54b1da6a-1167-cc2b-55cb-93a331d24991"
+    },
+    {
+      "name":  "NVIDIA RTX 6000 Ada Generation",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  18176,
+      "architecture":  "Ada",
+      "uuid":  "GPU-c105c72e-b4cc-be6a-fb70-cc9463807318"
+    }
+  ],
+  "cudaVersion":  "13.0",
+  "writerId":  "2bxlctzjlefu5t7sai05x3w2ozrfzs9i"
+}

@@ -1,0 +1,65 @@
+# =============================================================================
+# LLM Fine-Tuning Pipeline - Requirements
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Stage 1: Data Collection
+# -----------------------------------------------------------------------------
+google-search-results   # SerpAPI client
+requests           # HTTP requests for PDF download
+
+# -----------------------------------------------------------------------------
+# Stage 2: Data Processing
+# -----------------------------------------------------------------------------
+docling                 # PDF to Markdown extraction (OCR)
+
+# -----------------------------------------------------------------------------
+# Stage 3: Dataset Generation
+# -----------------------------------------------------------------------------
+google-genai            # Gemini API client
+pydantic                # Schema validation
+
+# -----------------------------------------------------------------------------
+# Stage 4: Fine-tuning
+# -----------------------------------------------------------------------------
+torch                   # PyTorch
+transformers            # HuggingFace Transformers
+peft                    # LoRA/QLoRA adapters
+bitsandbytes            # Quantization (4-bit, 8-bit)
+trl                      # SFTTrainer for fine-tuning
+datasets              # Dataset loading
+accelerate             # Distributed training utilities
+wandb                  # Experiment tracking
+
+# -----------------------------------------------------------------------------
+# Stage 5: Evaluation
+# -----------------------------------------------------------------------------
+rouge-score              # ROUGE metrics
+bert-score               # BERTScore semantic similarity
+sacrebleu                # BLEU (kept for reference)
+tqdm                   # Progress bars
+
+# -----------------------------------------------------------------------------
+# Stage 6: Model Registration
+# -----------------------------------------------------------------------------
+huggingface-hub        # HuggingFace Hub API
+
+# -----------------------------------------------------------------------------
+# Stage 7 & 8: Serving & Monitoring
+# -----------------------------------------------------------------------------
+fastapi               # API framework
+uvicorn                # ASGI server
+httpx                  # Async HTTP client
+prometheus-client      # Prometheus metrics
+
+# -----------------------------------------------------------------------------
+# Utilities
+# -----------------------------------------------------------------------------
+python-dotenv           # Environment variable loading
+pyyaml                   # YAML config parsing
+
+# -----------------------------------------------------------------------------
+# Development (optional)
+# -----------------------------------------------------------------------------
+ruff                  # Linting
+pytest                # Testing

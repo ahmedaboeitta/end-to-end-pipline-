@@ -1,0 +1,484 @@
+{
+  "model": "meta-llama/Llama-3.2-3B-Instruct",
+  "adapter": "models/checkpoints/checkpoint-23",
+  "quantization": "4bit",
+  "timestamp": "2026-01-08T22:47:52.826319",
+  "num_samples": 93,
+  "metrics": {
+    "rouge1": 0.39302704400314536,
+    "rouge2": 0.19407467223258792,
+    "rougeL": 0.3507605997182352,
+    "bertscore_precision": 0.9082216024398804,
+    "bertscore_recall": 0.8931605815887451,
+    "bertscore_f1": 0.9002153277397156,
+    "token_f1": 0.34549581569974175,
+    "combined_score": 0.5737161785516197
+  },
+  "predictions": [
+    {
+      "question": "How does human milk benefit a baby's digestion and immune system?",
+      "reference": "Human milk is easily digested, leading to fewer stomach upsets and less gas. It also provides antibodies that protect the baby from environmental germs, allergies, and respiratory infections as their immune system develops.",
+      "predicted": "Human milk helps a baby's digestion and immune system by providing antibodies and enzymes that aid digestion and protect against infections."
+    },
+    {
+      "question": "If other children are present during labor and delivery, who is responsible for their supervision?",
+      "reference": "Each child must be supervised by an adult other than the primary support person.",
+      "predicted": "The mother is responsible for supervising other children present during labor and delivery."
+    },
+    {
+      "question": "What are some dietary and lifestyle recommendations for treating heartburn or indigestion during pregnancy?",
+      "reference": "Eat slowly and more frequently, chew gum after eating, and eat dry food like crackers or toast before bed.",
+      "predicted": "Avoid lying down after eating, eat smaller meals, and avoid trigger foods like citrus fruits, chocolate, and spicy foods."
+    },
+    {
+      "question": "What is the recommended weight gain range for an underweight pregnant woman (BMI less than 18.5)?",
+      "reference": "28-40 pounds.",
+      "predicted": "A weight gain of 28-40 pounds is recommended."
+    },
+    {
+      "question": "How can hemorrhoids be prevented during pregnancy?",
+      "reference": "Hemorrhoids can be prevented by avoiding constipation and straining.",
+      "predicted": "Avoid straining during bowel movements, and avoid constipation by eating foods high in fiber."
+    },
+    {
+      "question": "What is the phone number to contact the doctor's office for concerns during pregnancy?",
+      "reference": "The phone number to contact the doctor's office is 910-343-1031.",
+      "predicted": "Call 555-1234."
+    },
+    {
+      "question": "When is a Group B strep culture performed during pregnancy, and what is its objective?",
+      "reference": "A Group B strep culture is performed at 35 to 37 weeks to identify women who carry bacteria that can cause the baby to get an infection during birth.",
+      "predicted": "A Group B strep culture is performed between 35 and 37 weeks of pregnancy. Its objective is to detect the presence of Group B strep in the mother."
+    },
+    {
+      "question": "Where is a baby typically placed immediately after birth for skin-to-skin care?",
+      "reference": "The baby will be placed on the mother's chest, skin to skin.",
+      "predicted": "The baby is placed on the mother's bare chest."
+    },
+    {
+      "question": "Is the After Birth class available to all patients?",
+      "reference": "No, this class is only available to Wilmington Health patients.",
+      "predicted": "No, the class is only available to patients who have a scheduled C-section."
+    },
+    {
+      "question": "What support does Emory Healthcare provide for breastfeeding mothers?",
+      "reference": "Emory Healthcare has lactation consultants on staff, and all doctors and nurses are trained to help with the breastfeeding experience.",
+      "predicted": "Emory Healthcare offers lactation consultants and breastfeeding support."
+    },
+    {
+      "question": "What conditions do GC and Chlamydia tests screen for?",
+      "reference": "GC (neisseria gonorrhoeae) and Chlamydia tests screen for sexually transmitted diseases.",
+      "predicted": "GC and Chlamydia tests screen for gonorrhea and chlamydia infections."
+    },
+    {
+      "question": "When should a pregnant person contact their provider regarding a dental procedure?",
+      "reference": "A provider should be called if undergoing a major dental procedure.",
+      "predicted": "A pregnant person should contact their provider if they have a dental procedure scheduled."
+    },
+    {
+      "question": "What types of comfort measures are available for labor at the academic medical center?",
+      "reference": "Comfort measures include classes in natural childbirth, hypnobirthing, and dancing for birth; massage, relaxation breathing, music, warm showers, soaking tubs, intravenous pain medication, epidurals, and water birth.",
+      "predicted": "TENS units, warm compresses, and warm baths are available."
+    },
+    {
+      "question": "How might early labor contractions feel prior to 36 weeks?",
+      "reference": "Early labor contractions might feel like regular tightening of the uterus or belly, described as the baby 'balling up', occurring every five minutes or closer for at least an hour.",
+      "predicted": "Early labor contractions may feel like a tightening sensation in the abdomen, but they are usually not strong enough to be noticeable."
+    },
+    {
+      "question": "What kind of warning labels on household cleaners should pregnant women avoid?",
+      "reference": "Pregnant women should avoid products with labels that read 'toxic,' 'poison,' or 'corrosive.'",
+      "predicted": "Pregnant women should avoid household cleaners labeled as \"toxic\" or \"poison.\""
+    },
+    {
+      "question": "Is thin, milky vaginal discharge a normal occurrence during pregnancy?",
+      "reference": "Yes, it is normal to experience a thin, milky discharge during pregnancy.",
+      "predicted": "Yes, thin, milky vaginal discharge is a normal occurrence during pregnancy."
+    },
+    {
+      "question": "What does FMLA stand for, and what does it provide for new parents?",
+      "reference": "FMLA stands for Family Medical Leave Act and provides unpaid, job-protected leave while delivering and caring for a newborn.",
+      "predicted": "FMLA stands for Family and Medical Leave Act. It provides eligible employees with up to 12 weeks of unpaid leave for certain family and medical reasons."
+    },
+    {
+      "question": "What are the primary benefits of protein consumption for both the pregnant individual and the baby?",
+      "reference": "Protein provides energy for the pregnant individual, helps with the baby's development, maintains muscle, and fights diseases.",
+      "predicted": "Protein helps the baby grow and develop, and it also helps the mother's body prepare for the baby's birth."
+    },
+    {
+      "question": "Why is exercise important during pregnancy?",
+      "reference": "Exercising while pregnant is important to keep the body healthy and muscles strong for delivery.",
+      "predicted": "Exercise helps prevent pregnancy complications and improves the health of the mother and baby."
+    },
+    {
+      "question": "What types of cheeses are generally safe to eat during pregnancy, and which ones should be avoided unless made from pasteurized milk?",
+      "reference": "Hard cheeses, semi-soft cheeses, cream cheese, and cottage cheese are safe. Soft cheeses like feta, brie, blue-veined cheeses, or queso fresco should be avoided unless clearly labeled as made from pasteurized milk.",
+      "predicted": "Cheeses that are safe to eat during pregnancy are generally those made from pasteurized milk."
+    },
+    {
+      "question": "What social benefit can expectant parents gain from attending childbirth classes?",
+      "reference": "At childbirth classes, expectant parents can meet other parents who are going through the same changes and whose babies will be the same age as theirs.",
+      "predicted": "Expectant parents can expect to learn about the process of childbirth, how to prepare for labor, and how to care for a newborn."
+    },
+    {
+      "question": "What happens to stretch marks after pregnancy?",
+      "reference": "Stretch marks will eventually fade into a light, silvery color after pregnancy.",
+      "predicted": "Stretch marks may fade over time, but they may not completely disappear."
+    },
+    {
+      "question": "Why is a urine sample collected at each pregnancy appointment?",
+      "reference": "A urine sample is required to check sugar and protein levels.",
+      "predicted": "A urine sample is collected to check for protein and glucose."
+    },
+    {
+      "question": "When should a pregnant woman begin taking folic acid to have an effect on her baby?",
+      "reference": "She should begin to take folic acid as soon as possible in her pregnancy.",
+      "predicted": "A woman should start taking folic acid at least one month before conception."
+    },
+    {
+      "question": "Why are X-rays and certain anesthetics a concern during dental procedures for pregnant individuals?",
+      "reference": "X-rays and certain anesthetics may be dangerous to the baby's health.",
+      "predicted": "X-rays and certain anesthetics are a concern during dental procedures for pregnant individuals because they can cause harm to the fetus."
+    },
+    {
+      "question": "Name two safe over-the-counter medications for heartburn during pregnancy.",
+      "reference": "Tums and Mylanta.",
+      "predicted": "Tums and Rolaids are safe over-the-counter medications for heartburn during pregnancy."
+    },
+    {
+      "question": "By law, how long before leave begins must FMLA papers be submitted?",
+      "reference": "FMLA papers need to be submitted 30 days before leave begins.",
+      "predicted": "Papers must be submitted at least 30 days before leave begins."
+    },
+    {
+      "question": "What types of emotions can pregnancy involve?",
+      "reference": "Pregnancy can involve a range of emotions such as joy, worry, excitement, and concern.",
+      "predicted": "Pregnancy can involve feelings of excitement, nervousness, and anxiety."
+    },
+    {
+      "question": "Which three key nutrients should a pregnant woman look for when choosing a prenatal vitamin?",
+      "reference": "Folic acid, iron, and calcium.",
+      "predicted": "A pregnant woman should look for folic acid, iron, and calcium."
+    },
+    {
+      "question": "What effect do proton pump inhibitors have on iron bioavailability?",
+      "reference": "Proton pump inhibitors reduce the bioavailability of iron.",
+      "predicted": "Proton pump inhibitors decrease iron absorption."
+    },
+    {
+      "question": "Who leads the dedicated, multidisciplinary obstetrics team at UH MacDonald Women's Hospital?",
+      "reference": "The team is led by nationally recognized obstetricians, gynecologists, maternal fetal medicine specialists, certified nurse-midwives, nurse practitioners, researchers, and other experts in women's health.",
+      "predicted": "Dr. Susan R. Peacock."
+    },
+    {
+      "question": "What is a general guideline for continuing exercises during pregnancy?",
+      "reference": "A good rule of thumb is to continue most exercises that were done before pregnancy.",
+      "predicted": "Continue exercises as long as they are comfortable and do not cause pain."
+    },
+    {
+      "question": "Name three non-dairy food sources that can provide calcium.",
+      "reference": "Spinach, fortified soy or almond milk, black-eyed peas, or sardines can provide calcium.",
+      "predicted": "Almonds, fortified plant milk, and dark leafy greens are three non-dairy food sources that can provide calcium."
+    },
+    {
+      "question": "What does the American Academy of Pediatrics recommend regarding exclusive breastfeeding?",
+      "reference": "The American Academy of Pediatrics recommends that babies be exclusively breastfed for about the first six months of life, needing no additional foods or fluids except Vitamin D unless medically indicated.",
+      "predicted": "The American Academy of Pediatrics recommends exclusive breastfeeding for the first six months of life."
+    },
+    {
+      "question": "Does exposure to second-hand smoke pose risks during pregnancy?",
+      "reference": "Yes, exposure to second-hand smoke increases the risks of miscarriage, stillbirth, and premature delivery.",
+      "predicted": "Yes, exposure to second-hand smoke poses risks during pregnancy."
+    },
+    {
+      "question": "What additional facility is available for babies requiring extra care at UH MacDonald Women's Hospital?",
+      "reference": "UH Rainbow Babies & Children's Hospital, which specializes in neonatal care, is available just a few steps away.",
+      "predicted": "A Level III NICU is available."
+    },
+    {
+      "question": "Which types of foods are mentioned to decrease iron absorption?",
+      "reference": "Foods high in phytic acids (grains, seeds, legumes) and dairy products.",
+      "predicted": "Phosphates, calcium, and polyphenols decrease iron absorption."
+    },
+    {
+      "question": "What initial steps should be taken if early labor signs are experienced?",
+      "reference": "Initial steps include emptying the bladder, drinking two to three large glasses of water, and lying down on your side for one hour.",
+      "predicted": "Go to the hospital and have a healthcare provider evaluate the cervix."
+    },
+    {
+      "question": "In what forms can nutritious fruits be bought and eaten during pregnancy?",
+      "reference": "Fresh, frozen, canned, or dried.",
+      "predicted": "Fruits can be bought and eaten fresh, frozen, canned, or dried."
+    },
+    {
+      "question": "Where can payment for prenatal classes be made?",
+      "reference": "Payment for classes can be made at the front desk of any of the three Wilmington Health OB/GYN locations.",
+      "predicted": "Payment for prenatal classes can be made at the hospital."
+    },
+    {
+      "question": "What are the two primary childbirth classes offered?",
+      "reference": "The two primary childbirth classes offered are the Prepared Childbirth class and the Lamaze Natural Childbirth class.",
+      "predicted": "The two primary childbirth classes offered are the Childbirth Education Class and the Childbirth Preparation Class."
+    },
+    {
+      "question": "Which type of formula is the least expensive?",
+      "reference": "Dry formula.",
+      "predicted": "The least expensive formula is the 20/20/20 formula."
+    },
+    {
+      "question": "How did Kristy Harley develop her interest in providing lactation support?",
+      "reference": "Kristy Harley developed an interest in providing lactation support to families after her own journey through breastfeeding her three children.",
+      "predicted": "Kristy Harley developed her interest in providing lactation support after having a difficult breastfeeding experience."
+    },
+    {
+      "question": "What service is available 24/7/365 at the UH Rainbow Babies & Children's Hospital main entrance for laboring mothers?",
+      "reference": "Valet parking services are available for laboring moms.",
+      "predicted": "A lactation consultant is available 24/7/365 at the UH Rainbow Babies & Children's Hospital main entrance for laboring mothers."
+    },
+    {
+      "question": "What daily movement should be expected from the baby during the third trimester?",
+      "reference": "The baby should be moving daily during the third trimester.",
+      "predicted": "The baby should be moving daily, such as rolling, stretching, and kicking."
+    },
+    {
+      "question": "What symptoms typically indicate a urinary tract infection during pregnancy, and what is the medical term for burning with urination?",
+      "reference": "Symptoms indicating a urinary tract infection include burning with urination (dysuria), urinary frequency, chills, and/or a fever.",
+      "predicted": "Symptoms include frequent urination, pain while urinating, and a burning sensation while urinating."
+    },
+    {
+      "question": "Why is it important to make healthy lifestyle choices during the first trimester?",
+      "reference": "It is important due to the rapid changes for both the mother and the developing fetus and placenta, and rising hormones.",
+      "predicted": "Making healthy lifestyle choices during the first trimester is important because it can help prevent birth defects and other complications."
+    },
+    {
+      "question": "What are some recommended strategies to manage stress and prepare for parenthood during pregnancy?",
+      "reference": "Recommended strategies include eating well and getting enough sleep, exercising, sharing concerns, taking a childbirth class, learning basic childcare, discussing labor and delivery plans, planning arrangements, and taking time as a couple.",
+      "predicted": "Prenatal classes, exercise, and a healthy diet are recommended."
+    },
+    {
+      "question": "What is the focus of the Centering Parenting group offered by UH MacDonald Women's Hospital?",
+      "reference": "The Centering Parenting group brings mothers and infants together for the baby's first 15 months of life and supports parenting skills for both moms and dads.",
+      "predicted": "The focus of the Centering Parenting group is to help parents develop a more positive and loving relationship with their babies."
+    },
+    {
+      "question": "What should a pregnant woman do if she cannot keep down her prenatal vitamins due to nausea?",
+      "reference": "If a pregnant woman cannot keep down prenatal vitamins, she should call her doctor or nurse-midwife for other suggestions.",
+      "predicted": "A healthcare provider may recommend a prenatal vitamin that is easier to swallow, such as a liquid or a vitamin that can be taken with food."
+    },
+    {
+      "question": "What parasite found in cat feces can harm a pregnant woman or her baby?",
+      "reference": "Toxoplasmosis.",
+      "predicted": "Toxoplasma gondii."
+    },
+    {
+      "question": "Is travel generally considered safe during pregnancy?",
+      "reference": "Yes, in the absence of pregnancy complications, travel is safe during pregnancy.",
+      "predicted": "Travel is generally considered safe during pregnancy."
+    },
+    {
+      "question": "How can real labor contractions be distinguished from false labor contractions?",
+      "reference": "Real contractions are usually so intense that you must change what you are doing to get through them, and people around you can tell something is happening, often occurring with increasing intensity every five minutes or closer for at least an hour. False labor contractions are typically mild.",
+      "predicted": "Real labor contractions are longer and more intense than false labor contractions."
+    },
+    {
+      "question": "How does the academic medical center's primary cesarean section rate compare to state and national averages?",
+      "reference": "The primary cesarean section rate is lower than state and national averages.",
+      "predicted": "The academic medical center's primary cesarean section rate is higher than the state and national averages."
+    },
+    {
+      "question": "What should be done if severe mood changes or concerns for worsening anxiety or depression occur during pregnancy?",
+      "reference": "These concerns should be addressed with healthcare providers.",
+      "predicted": "If severe mood changes or concerns for worsening anxiety or depression occur during pregnancy, the patient should contact her healthcare provider."
+    },
+    {
+      "question": "What condition might developing high blood pressure during late pregnancy signal?",
+      "reference": "Developing high blood pressure during late pregnancy may signal preeclampsia.",
+      "predicted": "It may signal preeclampsia."
+    },
+    {
+      "question": "What is the purpose of blood work and a pelvic exam during the first prenatal visit (six to 10 weeks)?",
+      "reference": "To check for anemia, blood type, and sickle cell trait and to perform recommended tests and optional tests for the cystic fibrosis gene.",
+      "predicted": "The purpose of blood work and a pelvic exam during the first prenatal visit is to confirm pregnancy, check for any potential health risks, and monitor the mother's overall health."
+    },
+    {
+      "question": "Is minor vaginal spotting normal during the first four months of pregnancy?",
+      "reference": "Yes, minor spotting typically occurs during the first four months, can be caused by vaginal exams or sexual intercourse, and usually stops within 24 hours with bed rest.",
+      "predicted": "Yes, it is normal."
+    },
+    {
+      "question": "What is recommended regarding planning gender reveal events in relation to scheduled anatomy scans?",
+      "reference": "It is recommended not to plan gender reveal events on the same day as a scheduled anatomy scan, in case fetal gender cannot be determined or the scan is cancelled/rescheduled.",
+      "predicted": "Planning should be done at least 16 weeks before the scan."
+    },
+    {
+      "question": "Is sex considered safe during pregnancy?",
+      "reference": "Yes, sex is perfectly safe during pregnancy, and the baby is protected from harm.",
+      "predicted": "Sex is considered safe during pregnancy."
+    },
+    {
+      "question": "How should a pregnant woman wear a seat belt when traveling by car?",
+      "reference": "A seat belt should be buckled under the belly when traveling by car.",
+      "predicted": "A seat belt should be worn across the abdomen."
+    },
+    {
+      "question": "What medications can be taken for persistent nausea during pregnancy?",
+      "reference": "Dramamine\u00ae or Unisom\u00ae can be taken if nausea persists.",
+      "predicted": "Metoclopramide and ondansetron are commonly used."
+    },
+    {
+      "question": "Name two examples of fruits recommended in a basic pregnancy diet.",
+      "reference": "Examples include apples and bananas.",
+      "predicted": "Bananas and apples are recommended."
+    },
+    {
+      "question": "What can dehydration cause during pregnancy?",
+      "reference": "Dehydration can cause headaches and dizziness.",
+      "predicted": "Dehydration can cause headaches, dizziness, and fatigue."
+    },
+    {
+      "question": "When should severe headaches during pregnancy be reported to the doctor?",
+      "reference": "Severe headaches that develop in the last half of pregnancy, persist for more than 24 hours, and are not relieved by Tylenol\u00ae should be reported.",
+      "predicted": "Severe headaches during pregnancy should be reported to the doctor immediately."
+    },
+    {
+      "question": "Is videotaping obstetrical ultrasounds permitted?",
+      "reference": "No, videotaping ultrasounds is prohibited, but still pictures of the unborn baby can be provided.",
+      "predicted": "Yes, videotaping is permitted."
+    },
+    {
+      "question": "What serious complications can listeriosis cause during pregnancy?",
+      "reference": "Miscarriage, premature delivery, serious sickness, or the death of a newborn baby.",
+      "predicted": "Listeriosis can cause serious complications during pregnancy, including miscarriage, stillbirth, premature birth, and birth defects."
+    },
+    {
+      "question": "How can constipation be relieved during pregnancy?",
+      "reference": "Constipation can be relieved by eating a high-fiber diet including apples, cider, fruit juice, raisins, and bran, exercising, and drinking plenty of water.",
+      "predicted": "A warm bath, a gentle massage, and a glass of water can help relieve constipation during pregnancy."
+    },
+    {
+      "question": "What causes fatigue in the first trimester of pregnancy?",
+      "reference": "Fatigue in the first trimester is caused by the physical and emotional demands as the body adjusts to the growing baby.",
+      "predicted": "Fatigue is caused by the increased levels of progesterone and the body's need for extra nutrients."
+    },
+    {
+      "question": "What is the commitment of a Baby-Friendly designated maternity hospital according to the text?",
+      "reference": "It is committed to providing the best possible environment for successful breastfeeding.",
+      "predicted": "A Baby-Friendly designated maternity hospital is required to have a minimum of 2 lactation consultants on staff."
+    },
+    {
+      "question": "What is the primary focus of University Hospitals MacDonald Women's Hospital?",
+      "reference": "The primary focus is on a healthy pregnancy and the baby's arrival.",
+      "predicted": "The primary focus of University Hospitals MacDonald Women's Hospital is obstetrics and gynecology."
+    },
+    {
+      "question": "What practices are recommended for managing normal vaginal discharge during pregnancy?",
+      "reference": "Wearing panty liners and cotton underwear is recommended.",
+      "predicted": "Avoid using scented products, douches, or tampons."
+    },
+    {
+      "question": "At what gestational age is an anatomy ultrasound typically done, and what does it evaluate?",
+      "reference": "An anatomy ultrasound is typically done at 18 to 22 weeks to evaluate the baby's major organs, the placenta, and possibly determine the baby's sex.",
+      "predicted": "An anatomy ultrasound is typically done at 16-20 weeks gestational age and evaluates fetal anatomy."
+    },
+    {
+      "question": "How long should a new mother avoid strenuous activity after childbirth?",
+      "reference": "Avoid strenuous activity for four to six weeks and until you discuss it with your doctor or nurse-midwife.",
+      "predicted": "A new mother should avoid strenuous activity for 6 weeks after childbirth."
+    },
+    {
+      "question": "What types of services during pregnancy or delivery may involve additional fees?",
+      "reference": "Services that may involve additional fees include delivery charges, laboratory tests, ultrasound exams, non-stress tests, Cesarean section delivery, hospitalization for pregnancy complications, high-risk obstetrical services, and acute visits not related to pregnancy.",
+      "predicted": "Services that may involve additional fees include home births, birth centers, and midwife care."
+    },
+    {
+      "question": "What is La Leche League International (LLLI) dedicated to?",
+      "reference": "LLLI is dedicated to making breastfeeding easier and more rewarding for both mother and child.",
+      "predicted": "LLLI is dedicated to helping breastfeeding mothers."
+    },
+    {
+      "question": "How can occasional dizzy episodes during pregnancy be managed?",
+      "reference": "Occasional dizzy episodes can be managed with slower movements, increased fluids, and keeping a fan nearby.",
+      "predicted": "Dizziness can be managed by sitting or lying down, avoiding standing up quickly, and taking breaks to rest."
+    },
+    {
+      "question": "How can patients reach Emory Healthcare staff with questions during their pregnancy?",
+      "reference": "Patients can reach staff at offices, by phone, and electronically on the patient portal.",
+      "predicted": "Patients can reach Emory Healthcare staff with questions during their pregnancy by calling 404-364-HELP (4357)."
+    },
+    {
+      "question": "What test is ordered at approximately 36 weeks gestation to screen for a bacterial infection?",
+      "reference": "A vaginal culture for BETA Strep Group B is ordered at approximately 36 weeks gestation.",
+      "predicted": "A Group B strep culture is ordered."
+    },
+    {
+      "question": "Is videotaping the actual delivery allowed at NHRMC hospital?",
+      "reference": "No, NHRMC hospital policy prohibits videotaping of the actual delivery, including on mobile devices.",
+      "predicted": "No, videotaping is not allowed at NHRMC hospital."
+    },
+    {
+      "question": "Summarize the typical changes experienced during the second trimester (weeks 13-27) of pregnancy.",
+      "reference": "During the second trimester, nausea, headaches, and fatigue usually disappear; the provider can hear the heartbeat at visits; movement is typically felt between weeks 16-20; and the baby should move daily after 24 weeks. This trimester is often considered the most fun and healthiest.",
+      "predicted": "During the second trimester, the uterus expands and the baby grows, causing the abdomen to bulge."
+    },
+    {
+      "question": "What is the primary goal of the Breastfeeding 101 class?",
+      "reference": "The primary goal is to provide basics of successful breastfeeding, including tips to get started with confidence and troubleshoot problems.",
+      "predicted": "The primary goal of the Breastfeeding 101 class is to help new mothers learn how to breastfeed."
+    },
+    {
+      "question": "List two health benefits for mothers who breastfeed.",
+      "reference": "Women who breastfeed have decreased rates of breast cancer, ovarian cancer, diabetes, osteoporosis, rheumatoid arthritis, and depression, and it helps them lose more weight and reduces postpartum bleeding.",
+      "predicted": "Mothers who breastfeed have lower risks of breast and ovarian cancer."
+    },
+    {
+      "question": "What is the yellowish fluid that may leak from breasts during the last stages of pregnancy called?",
+      "reference": "The yellowish fluid is called colostrum.",
+      "predicted": "Colostrum."
+    },
+    {
+      "question": "How do recommended weight gain goals differ based on pre-pregnancy BMI categories?",
+      "reference": "Underweight individuals (< 18.5 BMI) should aim for 28-40 pounds, normal weight (18.5-24.9 BMI) for 25-35 pounds, overweight (25-29.9 BMI) for 15-25 pounds, and obese (> 30 BMI) for 11-20 pounds.",
+      "predicted": "For women with a pre-pregnancy BMI of 18.5-24.9, the recommended weight gain is 25-35 pounds."
+    },
+    {
+      "question": "For how long should infant formula be given to a baby if they are formula-fed?",
+      "reference": "Infant formula should be given until the baby is a year old.",
+      "predicted": "Until the baby is weaned."
+    },
+    {
+      "question": "What are the two ultrasounds typically offered during pregnancy and at what approximate gestational ages are they performed?",
+      "reference": "A first trimester ultrasound is offered at approximately eight to 10 weeks, and a second trimester ultrasound is done at approximately 18 to 20 weeks.",
+      "predicted": "The two ultrasounds typically offered during pregnancy are a dating ultrasound and a growth ultrasound. The dating ultrasound is performed at 6-10 weeks and the growth ultrasound is performed at 16-20 weeks."
+    },
+    {
+      "question": "Which medications are safe for allergy relief during pregnancy?",
+      "reference": "Benadryl, Claritin, and Zyrtec.",
+      "predicted": "Antihistamines like diphenhydramine and loratadine are safe for allergy relief during pregnancy."
+    },
+    {
+      "question": "When can optional genetic screening with blood testing and early ultrasound be performed, and what is its purpose?",
+      "reference": "It can be performed from nine to 14 weeks, with follow-up tests through 21 weeks, for screening for genetic conditions of the fetus, such as Down syndrome.",
+      "predicted": "Genetic screening with blood testing and early ultrasound can be performed between 15 and 20 weeks of pregnancy."
+    },
+    {
+      "question": "Who generally provides care for newborns after they are discharged from the hospital?",
+      "reference": "Babies are generally cared for by a hospital-based pediatrician after discharge.",
+      "predicted": "Most often, a family member or friend is expected to care for the newborn."
+    },
+    {
+      "question": "What is the CDC's recommended daily intake of folic acid for women of childbearing age?",
+      "reference": "The CDC recommends that all women of childbearing age consume 400 micrograms (mcg) of folic acid daily.",
+      "predicted": "The CDC recommends 400 micrograms of folic acid daily."
+    },
+    {
+      "question": "When should profuse vaginal bleeding be reported, and what action should be taken if it occurs after office hours?",
+      "reference": "Profuse vaginal bleeding (greater than menses) should be reported immediately. If it occurs after office hours, go to the emergency room or labor and delivery at the hospital.",
+      "predicted": "Profuse vaginal bleeding should be reported immediately. If it occurs after office hours, call the office at 8:00 AM the next morning."
+    },
+    {
+      "question": "What is often recommended for mothers to track toward the end of pregnancy regarding the baby's movement?",
+      "reference": "Toward the end of pregnancy, mothers may be asked to do 'kick counts' and track the baby's movement daily.",
+      "predicted": "Mothers are often advised to track the baby's movements daily."
+    }
+  ]
+}

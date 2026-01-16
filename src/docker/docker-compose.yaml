@@ -1,0 +1,67 @@
+# =============================================================================
+# Docker Compose - Full Serving Stack
+# =============================================================================
+# Usage:
+#   docker-compose up -d          # Start all services
+#   docker-compose logs -f        # View logs
+#   docker-compose down           # Stop all services
+# =============================================================================
+
+services:
+  # ---------------------------------------------------------------------------
+  # vLLM Server - Model Inference
+  # ---------------------------------------------------------------------------
+  vllm:
+    image: vllm/vllm-openai:v0.7.3
+    container_name: vllm-server
+    environment:
+      - HUGGING_FACE_HUB_TOKEN=${HF_TOKEN}
+    volumes:
+      - ../../config.yaml:/app/config.yaml:ro
+      - ../../models:/app/models:ro
+      - ../../scripts/start_vllm_docker.sh:/app/start.sh:ro
+      - huggingface_cache:/root/.cache/huggingface
+    ports:
+      - "8001:8001"
+    entrypoint: ["/bin/bash", "/app/start.sh"]
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      start_period: 120s
+      retries: 5
+    restart: unless-stopped
+
+  # ---------------------------------------------------------------------------
+  # FastAPI Server - API Gateway
+  # ---------------------------------------------------------------------------
+  api:
+    build:
+      context: ../..
+      dockerfile: src/docker/Dockerfile.api
+    container_name: qa-api
+    volumes:
+      - ../../config.yaml:/app/config.yaml:ro
+      - ../../logs:/app/logs
+    ports:
+      - "8000:8000"
+    depends_on:
+      vllm:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      start_period: 30s
+      retries: 3
+    restart: unless-stopped
+
+volumes:
+  huggingface_cache:

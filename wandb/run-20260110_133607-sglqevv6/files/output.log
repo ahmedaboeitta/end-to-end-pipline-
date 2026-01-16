@@ -1,0 +1,88 @@
+tokenizer_config.json: 100%|███████████████████████████████████████████████████████████████████████| 54.5k/54.5k [00:00<00:00, 766kB/s]
+tokenizer.json: 100%|█████████████████████████████████████████████████████████████████████████████| 9.09M/9.09M [00:00<00:00, 12.8MB/s]
+special_tokens_map.json: 100%|████████████████████████████████████████████████████████████████████████| 296/296 [00:00<00:00, 2.45MB/s]
+config.json: 100%|████████████████████████████████████████████████████████████████████████████████████| 878/878 [00:00<00:00, 6.77MB/s]
+model.safetensors.index.json: 100%|███████████████████████████████████████████████████████████████| 20.9k/20.9k [00:00<00:00, 12.9MB/s]
+model-00002-of-00002.safetensors:  19%|███████████▍                                                | 278M/1.46G [00:17<01:14, 15.8MB/s]
+model-00001-of-00002.safetensors:   2%|█▍                                                          | 124M/4.97G [00:17<11:26, 7.05MB/s]
+Fetching 2 files:   0%|                                                                                          | 0/2 [00:18<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/ahmed.aboeitta/energyai/pipeline.py", line 226, in <module>
+    main()
+  File "/home/ahmed.aboeitta/energyai/pipeline.py", line 220, in main
+    STAGES[stage](config)
+  File "/home/ahmed.aboeitta/energyai/pipeline.py", line 81, in run_stage_4
+    finetuner.run()
+  File "/home/ahmed.aboeitta/energyai/src/finetuner/trainer.py", line 77, in run
+    model = AutoModelForCausalLM.from_pretrained(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+    return model_class.from_pretrained(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+    return func(*args, **kwargs)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4900, in from_pretrained
+    checkpoint_files, sharded_metadata = _get_resolved_checkpoint_files(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/modeling_utils.py", line 1200, in _get_resolved_checkpoint_files
+    checkpoint_files, sharded_metadata = get_checkpoint_shard_files(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/utils/hub.py", line 1084, in get_checkpoint_shard_files
+    cached_filenames = cached_files(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/utils/hub.py", line 494, in cached_files
+    snapshot_download(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/huggingface_hub/_snapshot_download.py", line 332, in snapshot_download
+    thread_map(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/tqdm/contrib/concurrent.py", line 69, in thread_map
+    return _executor_map(ThreadPoolExecutor, fn, *iterables, **tqdm_kwargs)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/tqdm/contrib/concurrent.py", line 51, in _executor_map
+    return list(tqdm_class(ex.map(fn, *iterables, chunksize=chunksize), **kwargs))
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/concurrent/futures/_base.py", line 621, in result_iterator
+    yield _result_or_cancel(fs.pop())
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/concurrent/futures/_base.py", line 319, in _result_or_cancel
+    return fut.result(timeout)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/ahmed.aboeitta/energyai/pipeline.py", line 226, in <module>
+    main()
+  File "/home/ahmed.aboeitta/energyai/pipeline.py", line 220, in main
+    STAGES[stage](config)
+  File "/home/ahmed.aboeitta/energyai/pipeline.py", line 81, in run_stage_4
+    finetuner.run()
+  File "/home/ahmed.aboeitta/energyai/src/finetuner/trainer.py", line 77, in run
+    model = AutoModelForCausalLM.from_pretrained(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+    return model_class.from_pretrained(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+    return func(*args, **kwargs)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4900, in from_pretrained
+    checkpoint_files, sharded_metadata = _get_resolved_checkpoint_files(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/modeling_utils.py", line 1200, in _get_resolved_checkpoint_files
+    checkpoint_files, sharded_metadata = get_checkpoint_shard_files(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/utils/hub.py", line 1084, in get_checkpoint_shard_files
+    cached_filenames = cached_files(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/transformers/utils/hub.py", line 494, in cached_files
+    snapshot_download(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/huggingface_hub/_snapshot_download.py", line 332, in snapshot_download
+    thread_map(
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/tqdm/contrib/concurrent.py", line 69, in thread_map
+    return _executor_map(ThreadPoolExecutor, fn, *iterables, **tqdm_kwargs)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/tqdm/contrib/concurrent.py", line 51, in _executor_map
+    return list(tqdm_class(ex.map(fn, *iterables, chunksize=chunksize), **kwargs))
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/concurrent/futures/_base.py", line 621, in result_iterator
+    yield _result_or_cancel(fs.pop())
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/concurrent/futures/_base.py", line 319, in _result_or_cancel
+    return fut.result(timeout)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/concurrent/futures/_base.py", line 453, in result
+    self._condition.wait(timeout)
+  File "/home/ahmed.aboeitta/miniconda3/envs/energy/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt

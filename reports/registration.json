@@ -1,0 +1,19 @@
+{
+  "repo_id": "ahmed113hesham/pregnancy-qa-qlora-v1.1",
+  "repo_url": "https://huggingface.co/ahmed113hesham/pregnancy-qa-qlora-v1.1",
+  "version": "v1.1",
+  "is_update": false,
+  "base_model": "meta-llama/Llama-3.2-3B-Instruct",
+  "metrics": {
+    "rouge1": 0.4367727779683871,
+    "rouge2": 0.23748919392407164,
+    "rougeL": 0.3859523064030608,
+    "bertscore_precision": 0.9126623272895813,
+    "bertscore_recall": 0.9040562510490417,
+    "bertscore_f1": 0.9080653190612793,
+    "token_f1": 0.37784404547416534,
+    "combined_score": 0.5982579064371017
+  },
+  "registered_at": "2026-01-12T15:14:23.348609",
+  "private": false
+}

@@ -1,0 +1,314 @@
+{
+  "best_checkpoint": "models/checkpoints/checkpoint-7352",
+  "best_score": 0.5973505771025246,
+  "all_results": [
+    {
+      "checkpoint": "models/checkpoints/checkpoint-10109",
+      "combined_score": 0.5952572803087102,
+      "metrics": {
+        "rouge1": 0.4326807071292242,
+        "rouge2": 0.23526602452889703,
+        "rougeL": 0.3809067060381851,
+        "bertscore_precision": 0.9110544323921204,
+        "bertscore_recall": 0.9036464095115662,
+        "bertscore_f1": 0.907059371471405,
+        "token_f1": 0.37446724597885134,
+        "combined_score": 0.5952572803087102
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-11028",
+      "combined_score": 0.594407356162443,
+      "metrics": {
+        "rouge1": 0.43184045023734663,
+        "rouge2": 0.23474255948168174,
+        "rougeL": 0.3797499006077233,
+        "bertscore_precision": 0.9097187519073486,
+        "bertscore_recall": 0.9043394923210144,
+        "bertscore_f1": 0.9067363739013672,
+        "token_f1": 0.37301895697922266,
+        "combined_score": 0.594407356162443
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-11947",
+      "combined_score": 0.5942153040471037,
+      "metrics": {
+        "rouge1": 0.43069671417436595,
+        "rouge2": 0.2346502301586871,
+        "rougeL": 0.3798683547590299,
+        "bertscore_precision": 0.9096086621284485,
+        "bertscore_recall": 0.9038323760032654,
+        "bertscore_f1": 0.9064317941665649,
+        "token_f1": 0.3730620426766609,
+        "combined_score": 0.5942153040471037
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-12866",
+      "combined_score": 0.5934283143561112,
+      "metrics": {
+        "rouge1": 0.42963267569765795,
+        "rouge2": 0.23405017555900537,
+        "rougeL": 0.3783957371220873,
+        "bertscore_precision": 0.9094173312187195,
+        "bertscore_recall": 0.9036010503768921,
+        "bertscore_f1": 0.906221330165863,
+        "token_f1": 0.3722889679168702,
+        "combined_score": 0.5934283143561112
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-13785",
+      "combined_score": 0.5930671987482828,
+      "metrics": {
+        "rouge1": 0.42937856404986524,
+        "rouge2": 0.2341774060943192,
+        "rougeL": 0.378032541369048,
+        "bertscore_precision": 0.9093128442764282,
+        "bertscore_recall": 0.9036915898323059,
+        "bertscore_f1": 0.9062182307243347,
+        "token_f1": 0.3711614382142404,
+        "combined_score": 0.5930671987482828
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-14704",
+      "combined_score": 0.5912922721282049,
+      "metrics": {
+        "rouge1": 0.4264249957518538,
+        "rouge2": 0.23090620987865398,
+        "rougeL": 0.3750163449902608,
+        "bertscore_precision": 0.908478856086731,
+        "bertscore_recall": 0.9034369587898254,
+        "bertscore_f1": 0.9056735634803772,
+        "token_f1": 0.36937721831895154,
+        "combined_score": 0.5912922721282049
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-15623",
+      "combined_score": 0.5917158750135846,
+      "metrics": {
+        "rouge1": 0.4272949935486372,
+        "rouge2": 0.23190172872772497,
+        "rougeL": 0.3756681171460759,
+        "bertscore_precision": 0.9086580276489258,
+        "bertscore_recall": 0.9035404324531555,
+        "bertscore_f1": 0.905815839767456,
+        "token_f1": 0.36979802303957826,
+        "combined_score": 0.5917158750135846
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-16542",
+      "combined_score": 0.5907009819122346,
+      "metrics": {
+        "rouge1": 0.42603293593757885,
+        "rouge2": 0.2305021454685662,
+        "rougeL": 0.3743011246235728,
+        "bertscore_precision": 0.9082266092300415,
+        "bertscore_recall": 0.9033493995666504,
+        "bertscore_f1": 0.9055059552192688,
+        "token_f1": 0.3680248442184867,
+        "combined_score": 0.5907009819122346
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-17461",
+      "combined_score": 0.591626282768943,
+      "metrics": {
+        "rouge1": 0.42750823924452314,
+        "rouge2": 0.23068536571862402,
+        "rougeL": 0.3756042706603147,
+        "bertscore_precision": 0.9086406230926514,
+        "bertscore_recall": 0.9035614728927612,
+        "bertscore_f1": 0.9058194160461426,
+        "token_f1": 0.36933205613969655,
+        "combined_score": 0.591626282768943
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-1838",
+      "combined_score": 0.5837400845258346,
+      "metrics": {
+        "rouge1": 0.41405558138926957,
+        "rouge2": 0.21536557109267804,
+        "rougeL": 0.3629125502179373,
+        "bertscore_precision": 0.9093025326728821,
+        "bertscore_recall": 0.9013189077377319,
+        "bertscore_f1": 0.9050010442733765,
+        "token_f1": 0.3573017180608791,
+        "combined_score": 0.5837400845258346
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-18380",
+      "combined_score": 0.5923113406856997,
+      "metrics": {
+        "rouge1": 0.4284559711190868,
+        "rouge2": 0.23266194148897337,
+        "rougeL": 0.3765335683889575,
+        "bertscore_precision": 0.9087724089622498,
+        "bertscore_recall": 0.9038093090057373,
+        "bertscore_f1": 0.9060043692588806,
+        "token_f1": 0.3705196267677575,
+        "combined_score": 0.5923113406856997
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-2757",
+      "combined_score": 0.5887923783438693,
+      "metrics": {
+        "rouge1": 0.42237347781619544,
+        "rouge2": 0.22305552011824145,
+        "rougeL": 0.37022968284617414,
+        "bertscore_precision": 0.9110831022262573,
+        "bertscore_recall": 0.9024655222892761,
+        "bertscore_f1": 0.9064734578132629,
+        "token_f1": 0.3644837129154618,
+        "combined_score": 0.5887923783438693
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-3676",
+      "combined_score": 0.590124592606535,
+      "metrics": {
+        "rouge1": 0.42278252553813506,
+        "rouge2": 0.22398380540127372,
+        "rougeL": 0.37393701263823287,
+        "bertscore_precision": 0.9139357805252075,
+        "bertscore_recall": 0.9005094766616821,
+        "bertscore_f1": 0.9068924784660339,
+        "token_f1": 0.3645412243741907,
+        "combined_score": 0.590124592606535
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-4595",
+      "combined_score": 0.5964178543449298,
+      "metrics": {
+        "rouge1": 0.4348988396249011,
+        "rouge2": 0.23487860673986613,
+        "rougeL": 0.38201103368445055,
+        "bertscore_precision": 0.9117815494537354,
+        "bertscore_recall": 0.9044232964515686,
+        "bertscore_f1": 0.9078137874603271,
+        "token_f1": 0.375995726464868,
+        "combined_score": 0.5964178543449298
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-5514",
+      "combined_score": 0.5958121500583022,
+      "metrics": {
+        "rouge1": 0.4331836625867024,
+        "rouge2": 0.23316486454255098,
+        "rougeL": 0.38173462875317055,
+        "bertscore_precision": 0.9128217697143555,
+        "bertscore_recall": 0.9031761884689331,
+        "bertscore_f1": 0.9076969027519226,
+        "token_f1": 0.3744731703645587,
+        "combined_score": 0.5958121500583022
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-6433",
+      "combined_score": 0.5935049757203323,
+      "metrics": {
+        "rouge1": 0.4287994453738645,
+        "rouge2": 0.2312481802888402,
+        "rougeL": 0.3793774860845132,
+        "bertscore_precision": 0.9131461381912231,
+        "bertscore_recall": 0.9010109305381775,
+        "bertscore_f1": 0.9067462682723999,
+        "token_f1": 0.37056639024316024,
+        "combined_score": 0.5935049757203323
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-69",
+      "combined_score": 0.5697308434679245,
+      "metrics": {
+        "rouge1": 0.39318598005487293,
+        "rouge2": 0.1981019969833003,
+        "rougeL": 0.34225864622571,
+        "bertscore_precision": 0.905605673789978,
+        "bertscore_recall": 0.8981326222419739,
+        "bertscore_f1": 0.9015738368034363,
+        "token_f1": 0.33552558436674845,
+        "combined_score": 0.5697308434679245
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-7352",
+      "combined_score": 0.5973505771025246,
+      "metrics": {
+        "rouge1": 0.4357236653100473,
+        "rouge2": 0.23572353113805877,
+        "rougeL": 0.3844855771235141,
+        "bertscore_precision": 0.9126067161560059,
+        "bertscore_recall": 0.90391606092453,
+        "bertscore_f1": 0.9079692363739014,
+        "token_f1": 0.37622421442452514,
+        "combined_score": 0.5973505771025246
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-8271",
+      "combined_score": 0.5968774036347042,
+      "metrics": {
+        "rouge1": 0.43427040272989403,
+        "rouge2": 0.23708408411988843,
+        "rougeL": 0.3838182108810215,
+        "bertscore_precision": 0.9126535058021545,
+        "bertscore_recall": 0.9035791158676147,
+        "bertscore_f1": 0.9078112840652466,
+        "token_f1": 0.3759019323565483,
+        "combined_score": 0.5968774036347042
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-919",
+      "combined_score": 0.5734305233672821,
+      "metrics": {
+        "rouge1": 0.3981986821653508,
+        "rouge2": 0.2011727569854986,
+        "rougeL": 0.3481227823924547,
+        "bertscore_precision": 0.9057478904724121,
+        "bertscore_recall": 0.8991440534591675,
+        "bertscore_f1": 0.9021342396736145,
+        "token_f1": 0.34160062281782394,
+        "combined_score": 0.5734305233672821
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/checkpoint-9190",
+      "combined_score": 0.5952767581250185,
+      "metrics": {
+        "rouge1": 0.43225651820626926,
+        "rouge2": 0.23420792039574997,
+        "rougeL": 0.3812331795207125,
+        "bertscore_precision": 0.911203145980835,
+        "bertscore_recall": 0.9034038186073303,
+        "bertscore_f1": 0.9070124626159668,
+        "token_f1": 0.3743808370089553,
+        "combined_score": 0.5952767581250185
+      }
+    },
+    {
+      "checkpoint": "models/checkpoints/final",
+      "combined_score": 0.5923113406856997,
+      "metrics": {
+        "rouge1": 0.4284559711190868,
+        "rouge2": 0.23266194148897337,
+        "rougeL": 0.3765335683889575,
+        "bertscore_precision": 0.9087724089622498,
+        "bertscore_recall": 0.9038093090057373,
+        "bertscore_f1": 0.9060043692588806,
+        "token_f1": 0.3705196267677575,
+        "combined_score": 0.5923113406856997
+      }
+    }
+  ]
+}
